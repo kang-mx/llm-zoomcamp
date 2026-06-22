@@ -49,10 +49,12 @@ Topics:
 
 Output:
 - [Homework](https://github.com/kang-mx/llm-zoomcamp/tree/main/01-agentic-rag)
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/posts/kangmx_llmzoomcamp-aiengineering-rag-activity-7474826288713854976-f-hn)
 
 References:
-- [Find median](https://stackoverflow.com/questions/24101524/finding-median-of-list-in-python)
-- [Fill in blank rows](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html)
-- [Get first N](https://www.geeksforgeeks.org/pandas/get-first-n-records-of-a-pandas-dataframe/)
-- [Sum of array](https://www.geeksforgeeks.org/dsa/program-find-sum-elements-given-array/)
+- [Stanford: Agents, Prompts & RAG](https://www.youtube.com/watch?v=k1njvbBmfsw)
+- [LLM to Agent Skill (in Chinese)](https://www.youtube.com/watch?v=7qO8-kx3gW8&t=685s)
+- [Databricks: What is RAG?](https://www.databricks.com/blog/what-is-retrieval-augmented-generation)
+- [Gemini API quickstart](https://ai.google.dev/gemini-api/docs/quickstart)
+- [Google LLMs](https://developers.google.com/machine-learning/crash-course/llm/transformers)
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762)
