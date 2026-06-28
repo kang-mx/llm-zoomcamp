@@ -32,7 +32,6 @@ Things I would learn:
 [My Github](https://github.com/kang-mx/llm-zoomcamp)
 
 
-
 ## Module 1: Introduction to Machine Learning
 
 Learn the fundamentals: what what LLMs are and build a simple RAG pipeline using keyword search. Then make it agentic, so the LLM decides when and what to search instead of running a fixed pipeline.
@@ -58,3 +57,30 @@ References:
 - [Gemini API quickstart](https://ai.google.dev/gemini-api/docs/quickstart)
 - [Google LLMs](https://developers.google.com/machine-learning/crash-course/llm/transformers)
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
+
+
+## Module 2: Vector Search
+
+Vector search matches documents by semantic meaning instead of exact keyword overlap. We start from embeddings and end with persistent vector indexes (sqlitesearch, PGVector) and ONNX-based embedders for lightweight deployments.
+
+Topics:
+- Keyword search vs vector search, why it matters
+- Embeddings: Turning text into vectors with sentence-transformers
+- Vector search with numpy
+- Vector Search with minsearch
+- RAG with Vector Search
+- Vector Search with sqlitesearch
+- Vector Search with PGVector
+- ONNX Embedder
+
+Output:
+- [Homework](https://github.com/kang-mx/llm-zoomcamp/tree/main/02-vector-search)
+
+References:
+- [Vector Search](https://www.ibm.com/think/topics/vector-search)
+- [Embeddings (Google)](https://developers.google.com/machine-learning/crash-course/embeddings)
+- [Embeddings (Open AI)](https://developers.openai.com/api/docs/guides/embeddings)
+- [Embeddings: A Deep Dive from Basics to Advanced Concepts](https://medium.com/@sharanharsoor/embeddings-a-deep-dive-from-basics-to-advanced-concepts-f092765476fc)
+- [Minsearch](https://pypi.org/project/minsearch/0.0.1/)
+- [PGvector](https://www.databricks.com/blog/what-is-pgvector)
+- [ONNX Embedding](https://github.com/chroma-core/onnx-embedding)
