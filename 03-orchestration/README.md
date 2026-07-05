@@ -1,4 +1,4 @@
-# LLM Zoomcamp Module 3 Homework: AI Orchestration with Kestra
+# LLM Zoomcamp Module 3 Homework: Orchestration
 
 ## Setup
 
