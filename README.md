@@ -84,3 +84,54 @@ References:
 - [Minsearch](https://pypi.org/project/minsearch/0.0.1/)
 - [PGvector](https://www.databricks.com/blog/what-is-pgvector)
 - [ONNX Embedding](https://github.com/chroma-core/onnx-embedding)
+
+
+## Module 3: Orchestration
+
+We learn how to orchestrate AI workflows using Kestra, an open-source orchestration platform. We start from the context problem that makes generic AI assistants unreliable, and end with autonomous multi-agent systems that can research, reason, and act without a fixed predetermined sequence of steps.
+
+Topics:
+- Using AI in workflows
+- AI Copilot
+- RAG Workflows
+- Agentic Workflows
+
+Output:
+- [Homework](https://github.com/kang-mx/llm-zoomcamp/tree/main/03-orchestration)
+
+References:
+- [Meet Kestra in 65 seconds](https://www.youtube.com/watch?v=1DMXb98nTik)
+- [Kestra Overview 2025](https://www.youtube.com/watch?v=xnGYiWFM2uk)
+- [Kestra Beginner Tutorial](https://www.youtube.com/watch?v=bQNmXge5vSY)
+- [Kestra Official Docs](https://kestra.io/docs)
+- [Kestra Fundamentals](https://academy.kestra.io/kestra-fundamentals)
+- [Kestra GitHub](https://github.com/kestra-io/kestra)
+- [Introducing Kestra (from Medium)](https://medium.com/geekculture/introducing-kestra-finally-a-viable-airflow-alternative-fa664fdc7a0d)
+
+
+## Module 4: Evaluation
+
+This module covers systematic evaluation for search, RAG, and agent systems. We generate ground truth data with an LLM. Then we measure performance with Hit Rate, MRR, and LLM-as-a-judge.
+
+Topics:
+- Why evaluation matters, offline vs online
+- Structured output for one document
+- Batch generation, cost, and prepared data
+- Search setup and relevance lists
+- Hit Rate, MRR, the evaluate() function
+- Using metrics to tune boost values
+- RAG and Agent Evaluation
+- Using an LLM to evaluate answer quality
+- Agent Evaluation
+
+Output:
+- [Homework](https://github.com/kang-mx/llm-zoomcamp/tree/main/04-evaluation)
+
+References:
+- [LLM Evaluation: A beginner's guide](https://www.evidentlyai.com/llm-guide/llm-evaluation)
+- [LLM as a judge](https://opensearch.org/blog/introducing-llm-as-a-judge-scaling-search-relevance-evaluation-with-ai/)
+- [LLM Evaluation Framework: Trajectories vs Outputs](https://www.langchain.com/resources/llm-evaluation-framework)
+- [RAG & LLM Evaluation Tools](https://medium.com/@zilliz_learn/top-10-rag-llm-evaluation-tools-you-dont-want-to-miss-a0bfabe9ae19)
+- [LLM Evaluation & Agent Evaluation](https://mlflow.org/llm-evaluation)
+- [How Hit Rate & MRR Measure LLM Retrievers](https://tamilselvan-subramanian.medium.com/how-hit-rate-and-mrr-measure-llm-retrievers-ai-simplified-series-7203ba2d4032)
+- [Ground Truth Generation for LLMs](https://medium.com/@adarsh_sh/simplifying-ground-truth-generation-for-llms-f04e8257c4ec)
