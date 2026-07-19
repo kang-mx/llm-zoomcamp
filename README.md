@@ -135,3 +135,35 @@ References:
 - [LLM Evaluation & Agent Evaluation](https://mlflow.org/llm-evaluation)
 - [How Hit Rate & MRR Measure LLM Retrievers](https://tamilselvan-subramanian.medium.com/how-hit-rate-and-mrr-measure-llm-retrievers-ai-simplified-series-7203ba2d4032)
 - [Ground Truth Generation for LLMs](https://medium.com/@adarsh_sh/simplifying-ground-truth-generation-for-llms-f04e8257c4ec)
+
+
+## Module 5: Monitoring
+
+Offline evaluation can't tell you how your RAG system performs once real people use it. This module covers online monitoring: collecting metrics from real traffic and visualizing them on a dashboard. 
+
+We build a Streamlit chat app, capture metrics, store conversations in PostgreSQL, and create Grafana dashboards for real-time monitoring.
+
+Topics:
+- Setting up the RAG assistant
+- Basic Streamlit app with RAG
+- LLMCallRecord, cost tracking
+- PostgreSQL with Docker, saving conversations
+- Querying Data
+- Streamlit Dashboard
+- User Feedback
+- LLM-as-a-judge for automatic relevance evaluation
+- Feedback Dashboard
+- Grafana Dashboards
+- Docker Compose
+
+Output:
+- [Homework](https://github.com/kang-mx/llm-zoomcamp/tree/main/05-monitoring)
+
+References:
+- [Connect Streamlit to PostgreSQL](https://docs.streamlit.io/develop/tutorials/databases/postgresql)
+- [LLM Observability](https://medium.com/@vasanthancomrads/opentelemetry-for-llm-observability-foundations-architecture-and-your-first-instrumented-llm-6bb1d3dc3cc6)
+- [PostgreSQL in Docker](https://www.datacamp.com/tutorial/postgresql-docker)
+- [Dashboard in Python using Streamlit](https://discuss.streamlit.io/t/building-a-dashboard-in-python-using-streamlit/60621)
+- [LLM as a Judge RAG](https://www.datacamp.com/tutorial/llm-as-a-judge-rag)
+- [LLM Synthetic Data](https://www.evidentlyai.com/llm-guide/llm-test-dataset-synthetic-data)
+- [Grafana SQL Data Source](https://grafana.com/docs/grafana/latest/datasources/postgres/)

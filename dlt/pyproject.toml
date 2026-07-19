@@ -1,0 +1,21 @@
+[project]
+name = "dlt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "logfire>=3.5.1",
+    "minsearch>=0.2.0",
+    "nest-asyncio>=1.6.0",
+    "openai>=2.46.0",
+    "pydantic-ai>=0.8.1",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+]
+
+[dependency-groups]
+dev = [
+    "dlt[duckdb]",
+    "logfire>=3.5.1",
+]

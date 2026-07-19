@@ -1,0 +1,23 @@
+[project]
+name = "dlt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "importlib-metadata>=9.0.0",
+    "minsearch>=0.1.1",
+    "nest-asyncio>=1.6.0",
+    "openai>=2.43.0",
+    "pydantic-ai>=0.8.1",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+]
+
+[dependency-groups]
+dev = [
+    "dlt[duckdb]",
+]
+
+[tool.uv.sources]
+dlt = { workspace = true }
