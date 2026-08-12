@@ -1,0 +1,9 @@
+faiss-cpu
+openai
+duckdb
+numpy
+python-dotenv
+sentence-transformers
+rank-bm25
+dlt[duckdb]
+streamlit

@@ -1,0 +1,1826 @@
+[
+  {
+    "question": "How can I tell if a particular experimental design is good for my application?",
+    "chunk_id": "aca48489-28df-4cbf-9f24-c681fda08fbb",
+    "source_doc": "pmd",
+    "section_title": "4.3.5. How can I tell if a particular experimental design is good for my application?"
+  },
+  {
+    "question": "What calculations reflect the quality of an experimental design?",
+    "chunk_id": "aca48489-28df-4cbf-9f24-c681fda08fbb",
+    "source_doc": "pmd",
+    "section_title": "4.3.5. How can I tell if a particular experimental design is good for my application?"
+  },
+  {
+    "question": "What does the box plot for large particles show regarding main effects?",
+    "chunk_id": "cb570a18-ef07-4415-a2c3-40c17681a52f",
+    "source_doc": "ppc",
+    "section_title": "3.4.2.2. Exploring Main Effects"
+  },
+  {
+    "question": "Is there a slight effect for load lock for small and large particles?",
+    "chunk_id": "cb570a18-ef07-4415-a2c3-40c17681a52f",
+    "source_doc": "ppc",
+    "section_title": "3.4.2.2. Exploring Main Effects"
+  },
+  {
+    "question": "What designs are used once we have a reduced set of influential factors to model causal relationships?",
+    "chunk_id": "ae62728b-d21a-439c-b000-75ca4301647c",
+    "source_doc": "ppc",
+    "section_title": "3.1.3.6. Experiments and Experimental Design"
+  },
+  {
+    "question": "How are screening designs and response surface designs used in process improvement?",
+    "chunk_id": "ae62728b-d21a-439c-b000-75ca4301647c",
+    "source_doc": "ppc",
+    "section_title": "3.1.3.6. Experiments and Experimental Design"
+  },
+  {
+    "question": "What is a V-Mask used for in control charts?",
+    "chunk_id": "422e68d6-d089-4754-8d95-b7a11e71ba85",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.3. CUSUM Control Charts"
+  },
+  {
+    "question": "How does a V-Mask determine if a process is out of control?",
+    "chunk_id": "422e68d6-d089-4754-8d95-b7a11e71ba85",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.3. CUSUM Control Charts"
+  },
+  {
+    "question": "What are the three general types of control charts classified in section 3?",
+    "chunk_id": "32e5387c-da1c-4b8f-86c2-1323b49b84af",
+    "source_doc": "pmc",
+    "section_title": "6.3. Univariate and Multivariate Control Charts"
+  },
+  {
+    "question": "What are the sub-types under variables control charts?",
+    "chunk_id": "32e5387c-da1c-4b8f-86c2-1323b49b84af",
+    "source_doc": "pmc",
+    "section_title": "6.3. Univariate and Multivariate Control Charts"
+  },
+  {
+    "question": "What distribution approximates the number of defectives in a random sample when the lot size is very large?",
+    "chunk_id": "2259ea36-a56b-4c48-9b2b-7d8edfd6c1b4",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.2. Choosing a Sampling Plan with a given OC"
+  },
+  {
+    "question": "How are the points on an OC curve obtained for a sampling plan?",
+    "chunk_id": "2259ea36-a56b-4c48-9b2b-7d8edfd6c1b4",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.2. Choosing a Sampling Plan with a given OC"
+  },
+  {
+    "question": "What factors are mostly related to the preventative maintenance cycle in the sensitivity model?",
+    "chunk_id": "ffab7d85-965a-407b-b130-dc15ce122cd1",
+    "source_doc": "ppc",
+    "section_title": "3.5.1.1. Background and Data"
+  },
+  {
+    "question": "What does the sensitivity model state about the incoming wafers and gases?",
+    "chunk_id": "ffab7d85-965a-407b-b130-dc15ce122cd1",
+    "source_doc": "ppc",
+    "section_title": "3.5.1.1. Background and Data"
+  },
+  {
+    "question": "How can data entry problems be easily identified for response variables?",
+    "chunk_id": "620b98d4-8df9-4645-a8a0-c0fe9dbb640b",
+    "source_doc": "ppc",
+    "section_title": "3.4.1. First Steps"
+  },
+  {
+    "question": "What techniques help identify problems with the execution of a sampling plan?",
+    "chunk_id": "620b98d4-8df9-4645-a8a0-c0fe9dbb640b",
+    "source_doc": "ppc",
+    "section_title": "3.4.1. First Steps"
+  },
+  {
+    "question": "What is a commonly applied solution when dealing with multiple sources of variation in control charts?",
+    "chunk_id": "a858bbdd-5228-4497-a986-3e026f6712bd",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.4. Shewhart Control Chart"
+  },
+  {
+    "question": "What variation type must be used when creating control limits for lot means instead of within lot variation?",
+    "chunk_id": "a858bbdd-5228-4497-a986-3e026f6712bd",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.4. Shewhart Control Chart"
+  },
+  {
+    "question": "Where can I find the sampling schemes for Case Study 1 and Case Study 2?",
+    "chunk_id": "3a721e91-8340-42db-96f4-23567df23674",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.2. Choosing a Sampling Scheme"
+  },
+  {
+    "question": "What section covers choosing a sampling scheme?",
+    "chunk_id": "3a721e91-8340-42db-96f4-23567df23674",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.2. Choosing a Sampling Scheme"
+  },
+  {
+    "question": "How is the definition of process modeling graphically depicted using the provided example?",
+    "chunk_id": "4f2c424d-d16c-4151-bb66-45975faa308b",
+    "source_doc": "pmd",
+    "section_title": "4.1.1. What is process modeling?"
+  },
+  {
+    "question": "What do errors describe regarding relative frequencies of occurrence?",
+    "chunk_id": "4f2c424d-d16c-4151-bb66-45975faa308b",
+    "source_doc": "pmd",
+    "section_title": "4.1.1. What is process modeling?"
+  },
+  {
+    "question": "What seasonal term should typically be included when fitting a Box-Jenkins model to monthly CO2 concentrations data?",
+    "chunk_id": "f6b33e1e-e14a-4eb8-a3f3-c9894c0aa088",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.6.2. Model Identification for the CO<sub>2</sub> Concentrations Data"
+  },
+  {
+    "question": "What does the autocorrelation plot of seasonally differenced CO2 data indicate when showing a mixture of exponential decay and a damped sinusoidal pattern?",
+    "chunk_id": "f6b33e1e-e14a-4eb8-a3f3-c9894c0aa088",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.6.2. Model Identification for the CO<sub>2</sub> Concentrations Data"
+  },
+  {
+    "question": "What method is used to estimate the coefficients for the parameters in the continuous linear model (CLM)?",
+    "chunk_id": "b03a92a4-db1f-46ec-be88-afba4c2c419e",
+    "source_doc": "ppc",
+    "section_title": "3.2.2. Continuous Linear Model"
+  },
+  {
+    "question": "Why is the continuous linear model (CLM) called linear?",
+    "chunk_id": "b03a92a4-db1f-46ec-be88-afba4c2c419e",
+    "source_doc": "ppc",
+    "section_title": "3.2.2. Continuous Linear Model"
+  },
+  {
+    "question": "What are the initial process assumptions required to employ the modeling techniques in this section?",
+    "chunk_id": "06a7bf9d-d753-4d2d-9897-136cb15358a7",
+    "source_doc": "ppc",
+    "section_title": "3.2.1. General Assumptions"
+  },
+  {
+    "question": "What must be assumed regarding the data used to fit these models in relation to the process?",
+    "chunk_id": "06a7bf9d-d753-4d2d-9897-136cb15358a7",
+    "source_doc": "ppc",
+    "section_title": "3.2.1. General Assumptions"
+  },
+  {
+    "question": "What sample size is estimated if we want to estimate a process mean within 10 Angstroms with 95% confidence and a standard deviation of 20 Angstroms?",
+    "chunk_id": "f5d10a51-9dbd-4b41-a9c2-132941b6f7d6",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.3. Selecting Sample Sizes"
+  },
+  {
+    "question": "What equation is used when we wish to use absolute error instead of relative error for estimating location?",
+    "chunk_id": "f5d10a51-9dbd-4b41-a9c2-132941b6f7d6",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.3. Selecting Sample Sizes"
+  },
+  {
+    "question": "When were the three sampling plan streams combined into Mil. Std. 105A?",
+    "chunk_id": "22d5b088-02d2-4df5-8281-e74282e58650",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.1. Choosing a Sampling Plan: MIL"
+  },
+  {
+    "question": "What is the designation of the latest revision of Mil. Std. 105 issued in 1989?",
+    "chunk_id": "22d5b088-02d2-4df5-8281-e74282e58650",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.1. Choosing a Sampling Plan: MIL"
+  },
+  {
+    "question": "How is a double sampling plan constructed using ratio R?",
+    "chunk_id": "b6809b56-dae0-4759-8e98-737bb9dddafd",
+    "source_doc": "pmc",
+    "section_title": "6.2.4. What is Double Sampling?"
+  },
+  {
+    "question": "What are the sample size and acceptance number values for the two double sampling plan examples?",
+    "chunk_id": "b6809b56-dae0-4759-8e98-737bb9dddafd",
+    "source_doc": "pmc",
+    "section_title": "6.2.4. What is Double Sampling?"
+  },
+  {
+    "question": "How do you compute the first column of the V matrix using eigenvalues?",
+    "chunk_id": "e92c7b3d-fa3c-4721-9671-66663af7319e",
+    "source_doc": "pmc",
+    "section_title": "6.5.5.2. Numerical Example"
+  },
+  {
+    "question": "What matrix is formed using the square roots of the eigenvalues of R as diagonal elements?",
+    "chunk_id": "e92c7b3d-fa3c-4721-9671-66663af7319e",
+    "source_doc": "pmc",
+    "section_title": "6.5.5.2. Numerical Example"
+  },
+  {
+    "question": "What factors largely determine the selection of the best statistical method for data analysis?",
+    "chunk_id": "fbc1a4e3-8b16-49bb-bb40-8d75727bf2a6",
+    "source_doc": "pmd",
+    "section_title": "4.1.4. What are some of the different statistical"
+  },
+  {
+    "question": "How does model building differ from other areas of statistics regarding method selection?",
+    "chunk_id": "fbc1a4e3-8b16-49bb-bb40-8d75727bf2a6",
+    "source_doc": "pmd",
+    "section_title": "4.1.4. What are some of the different statistical"
+  },
+  {
+    "question": "What tasks are involved in Step 2 of the process characterization data collection?",
+    "chunk_id": "eb7ea12b-0eb6-428c-b9e6-eaf02638f01d",
+    "source_doc": "ppc",
+    "section_title": "3.1.4. PPC Steps"
+  },
+  {
+    "question": "What combination of techniques is applied during Step 3 of process characterization analysis?",
+    "chunk_id": "eb7ea12b-0eb6-428c-b9e6-eaf02638f01d",
+    "source_doc": "ppc",
+    "section_title": "3.1.4. PPC Steps"
+  },
+  {
+    "question": "Where can I find the background and numerical data for section 6.6.2.1?",
+    "chunk_id": "93e2a0e9-f124-45a0-ae46-3b2a0ded2706",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.1. Background and Data"
+  },
+  {
+    "question": "What are the initial data values listed in the background for section 6.6.2.1?",
+    "chunk_id": "93e2a0e9-f124-45a0-ae46-3b2a0ded2706",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.1. Background and Data"
+  },
+  {
+    "question": "How is Cpk defined in terms of Cpl and Cpu?",
+    "chunk_id": "4dfb4334-a2df-4f68-9207-9ff49f0fb8dc",
+    "source_doc": "pmc",
+    "section_title": "6.1.6. What is Process Capability?"
+  },
+  {
+    "question": "What distribution do the confidence intervals for process capability indices follow assuming normally distributed data?",
+    "chunk_id": "4dfb4334-a2df-4f68-9207-9ff49f0fb8dc",
+    "source_doc": "pmc",
+    "section_title": "6.1.6. What is Process Capability?"
+  },
+  {
+    "question": "What are the three main approaches for selecting a function to describe a process?",
+    "chunk_id": "1a8574ad-aa2e-413d-bd4b-7c1024fec9e0",
+    "source_doc": "pmd",
+    "section_title": "4.4.2. How do I select a function to describe my process?"
+  },
+  {
+    "question": "How do I select a function to describe my process according to section 4.4.2?",
+    "chunk_id": "1a8574ad-aa2e-413d-bd4b-7c1024fec9e0",
+    "source_doc": "pmd",
+    "section_title": "4.4.2. How do I select a function to describe my process?"
+  },
+  {
+    "question": "What type of model does the partial autocorrelation plot suggest for the Southern Oscillations Data?",
+    "chunk_id": "3a2c8f63-5d51-470b-92a0-7f3baf0e100b",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.6.1. Model Identification for Southern Oscillations Data"
+  },
+  {
+    "question": "What initial model should be fit to the Southern Oscillations Data before validation?",
+    "chunk_id": "3a2c8f63-5d51-470b-92a0-7f3baf0e100b",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.6.1. Model Identification for Southern Oscillations Data"
+  },
+  {
+    "question": "What are the steps involved in using the Mil. Std. 105E sampling standard?",
+    "chunk_id": "4e05d5c2-4116-44d1-a849-1796129c7089",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.1. Choosing a Sampling Plan: MIL Standard 105D"
+  },
+  {
+    "question": "How does inspection level determine the relationship between lot size and sample size in Mil. Std. 105E?",
+    "chunk_id": "4e05d5c2-4116-44d1-a849-1796129c7089",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.1. Choosing a Sampling Plan: MIL Standard 105D"
+  },
+  {
+    "question": "What are the forecasted values and 90% confidence limits for observations 61-66 in the multivariate time series example?",
+    "chunk_id": "13ab5040-1aaa-4b13-95e5-939c3af2f1d3",
+    "source_doc": "pmc",
+    "section_title": "6.4.5.1. Example of Multivariate Time Series Analysis"
+  },
+  {
+    "question": "What were the Box-Ljung test results for the CO2 concentration residuals and gas rate residuals?",
+    "chunk_id": "13ab5040-1aaa-4b13-95e5-939c3af2f1d3",
+    "source_doc": "pmc",
+    "section_title": "6.4.5.1. Example of Multivariate Time Series Analysis"
+  },
+  {
+    "question": "What is the basic definition of process modeling in terms of total variation?",
+    "chunk_id": "a1ee4073-d0d9-4033-8b4f-e6dda25a185e",
+    "source_doc": "pmd",
+    "section_title": "4.1.1. What is process modeling?"
+  },
+  {
+    "question": "How does Charles' Law illustrate the deterministic and random components of process modeling?",
+    "chunk_id": "a1ee4073-d0d9-4033-8b4f-e6dda25a185e",
+    "source_doc": "pmd",
+    "section_title": "4.1.1. What is process modeling?"
+  },
+  {
+    "question": "What parameters must be specified when using the alpha and beta design approach for a V-Mask?",
+    "chunk_id": "150b1cbe-f8c0-4008-a5ca-802ff57b1ca1",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.3. Cusum Control Charts"
+  },
+  {
+    "question": "How are alpha, beta, and delta defined in the context of designing a Cusum control chart V-Mask?",
+    "chunk_id": "150b1cbe-f8c0-4008-a5ca-802ff57b1ca1",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.3. Cusum Control Charts"
+  },
+  {
+    "question": "What topics are covered regarding populations and sampling in the handbook?",
+    "chunk_id": "1c7055cf-dfe4-4a86-9755-bc2676c7e142",
+    "source_doc": "ppc",
+    "section_title": "3.1.3. Terminology/Concepts"
+  },
+  {
+    "question": "What do we need to know about designed experiments for modeling relationships?",
+    "chunk_id": "1c7055cf-dfe4-4a86-9755-bc2676c7e142",
+    "source_doc": "ppc",
+    "section_title": "3.1.3. Terminology/Concepts"
+  },
+  {
+    "question": "Why is the sensitivity model important for the machining process study?",
+    "chunk_id": "2213986e-6d39-4820-865e-fc2e4e5e63d9",
+    "source_doc": "ppc",
+    "section_title": "3.5.2.1. Background and Data"
+  },
+  {
+    "question": "How do machine condition and tool wear affect stability in the machining process sensitivity model?",
+    "chunk_id": "2213986e-6d39-4820-865e-fc2e4e5e63d9",
+    "source_doc": "ppc",
+    "section_title": "3.5.2.1. Background and Data"
+  },
+  {
+    "question": "What are the approaches listed under the multiple response case for optimization subject to experimental region constraints?",
+    "chunk_id": "a83a7d88-684d-4abe-a5c9-c924879968dd",
+    "source_doc": "pmd",
+    "section_title": "4.5.3. How can I optimize my process using the"
+  },
+  {
+    "question": "What are the subsections included under optimization subject to experimental region constraints?",
+    "chunk_id": "a83a7d88-684d-4abe-a5c9-c924879968dd",
+    "source_doc": "pmd",
+    "section_title": "4.5.3. How can I optimize my process using the"
+  },
+  {
+    "question": "How are estimates of unknown parameters generally obtained after selecting the basic form of a model?",
+    "chunk_id": "915f2766-5255-49ce-b2b4-910f44116baf",
+    "source_doc": "pmd",
+    "section_title": "4.4.3. How are estimates of the unknown"
+  },
+  {
+    "question": "What are the two major methods of parameter estimation for process models?",
+    "chunk_id": "915f2766-5255-49ce-b2b4-910f44116baf",
+    "source_doc": "pmd",
+    "section_title": "4.4.3. How are estimates of the unknown"
+  },
+  {
+    "question": "What are the four variables read into Dataplot in the case study description?",
+    "chunk_id": "112b9d1d-1247-4e57-8ed6-fcfb8c6e71a1",
+    "source_doc": "ppc",
+    "section_title": "3.5.1.6. Work This Example Yourself"
+  },
+  {
+    "question": "What summary statistics and distribution properties were found for film thickness in the case study?",
+    "chunk_id": "112b9d1d-1247-4e57-8ed6-fcfb8c6e71a1",
+    "source_doc": "ppc",
+    "section_title": "3.5.1.6. Work This Example Yourself"
+  },
+  {
+    "question": "How does a plot of the ASN versus incoming defect level p describe a LASP scheme?",
+    "chunk_id": "28dd4a17-c9a2-4270-b1e8-bf61797d27a8",
+    "source_doc": "pmc",
+    "section_title": "6.2.2. What kinds of Lot Acceptance Sampling Plans (LASPs) are there?"
+  },
+  {
+    "question": "What trade-off is involved when making a final choice between single and multiple sampling plans?",
+    "chunk_id": "28dd4a17-c9a2-4270-b1e8-bf61797d27a8",
+    "source_doc": "pmc",
+    "section_title": "6.2.2. What kinds of Lot Acceptance Sampling Plans (LASPs) are there?"
+  },
+  {
+    "question": "What is the multiplier called when computing a weighted average?",
+    "chunk_id": "f7cea7c2-88a5-43f5-ba93-fae6bcbda8e5",
+    "source_doc": "pmc",
+    "section_title": "6.4.2. What are Moving Average or Smoothing Techniques?"
+  },
+  {
+    "question": "How can an average be computed by adding each value divided by the number of values using weights?",
+    "chunk_id": "f7cea7c2-88a5-43f5-ba93-fae6bcbda8e5",
+    "source_doc": "pmc",
+    "section_title": "6.4.2. What are Moving Average or Smoothing Techniques?"
+  },
+  {
+    "question": "What does the load cell calibration example illustrate regarding linear regression models?",
+    "chunk_id": "7fa66d78-c4a7-4075-9e2d-515ffd6e8b18",
+    "source_doc": "pmd",
+    "section_title": "4.6.1. Load Cell Calibration"
+  },
+  {
+    "question": "What are the steps included in the quadratic load cell calibration example?",
+    "chunk_id": "7fa66d78-c4a7-4075-9e2d-515ffd6e8b18",
+    "source_doc": "pmd",
+    "section_title": "4.6.1. Load Cell Calibration"
+  },
+  {
+    "question": "What sample size estimate is obtained when trying a new process with a yield of 65% to be accurate within 0.10 at 95% confidence?",
+    "chunk_id": "c86aa867-201f-420e-bb2e-680b3ebbcde3",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.3. Selecting Sample Sizes"
+  },
+  {
+    "question": "What probability statement and formula are used when estimating location with relative error for continuous normally distributed variables?",
+    "chunk_id": "c86aa867-201f-420e-bb2e-680b3ebbcde3",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.3. Selecting Sample Sizes"
+  },
+  {
+    "question": "What data set is presented in section 6.4.4.1.2 containing values such as -1.3 and 1958.38?",
+    "chunk_id": "cb8a422a-4b0f-4fe8-9749-44aab819d73c",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.1.2. Data Set of Southern Oscillations"
+  },
+  {
+    "question": "What are some of the data entries listed under the Data Set of Southern Oscillations?",
+    "chunk_id": "cb8a422a-4b0f-4fe8-9749-44aab819d73c",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.1.2. Data Set of Southern Oscillations"
+  },
+  {
+    "question": "Why are PPC studies typically conducted as a team effort involving everyone early on?",
+    "chunk_id": "ca3602e5-ef6e-432e-9e12-a9c497e3a391",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.5. Assign Roles and Responsibilities"
+  },
+  {
+    "question": "What are the potential responsibilities of a Tool Owner, Process Owner, and Tool Operator in a PPC study?",
+    "chunk_id": "ca3602e5-ef6e-432e-9e12-a9c497e3a391",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.5. Assign Roles and Responsibilities"
+  },
+  {
+    "question": "How do single and double exponential smoothing forecasts compare over periods 11 through 15?",
+    "chunk_id": "9e8d3190-fa7b-484e-aa45-950f449acafd",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.4. Forecasting with Double Exponential Smoothing(LASP)"
+  },
+  {
+    "question": "Why is double exponential smoothing preferred over single exponential smoothing according to the forecast comparison?",
+    "chunk_id": "9e8d3190-fa7b-484e-aa45-950f449acafd",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.4. Forecasting with Double Exponential Smoothing(LASP)"
+  },
+  {
+    "question": "What is the basic equation for single exponential smoothing?",
+    "chunk_id": "c32cb7f4-d9f6-417d-9951-38381d606a45",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.1. Single Exponential Smoothing"
+  },
+  {
+    "question": "How is the initial EWMA forecast set in single exponential smoothing?",
+    "chunk_id": "c32cb7f4-d9f6-417d-9951-38381d606a45",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.1. Single Exponential Smoothing"
+  },
+  {
+    "question": "Why is it important to understand implicit assumptions in process modeling?",
+    "chunk_id": "c53bc074-cbd9-4b55-912f-4738a2d92f3c",
+    "source_doc": "pmd",
+    "section_title": "4.2. Underlying Assumptions for Process"
+  },
+  {
+    "question": "What happens if the implicit assumptions underlying a process modeling action are not true?",
+    "chunk_id": "c53bc074-cbd9-4b55-912f-4738a2d92f3c",
+    "source_doc": "pmd",
+    "section_title": "4.2. Underlying Assumptions for Process"
+  },
+  {
+    "question": "What does the R control chart monitor and how is its center line defined?",
+    "chunk_id": "e9ea4f62-572d-4d64-926b-00fe8f62ad1a",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.1. Shewhart X-bar and R and S Control Charts"
+  },
+  {
+    "question": "How are the parameters and control limits for the R chart calculated using factors D3 and D4?",
+    "chunk_id": "e9ea4f62-572d-4d64-926b-00fe8f62ad1a",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.1. Shewhart X-bar and R and S Control Charts"
+  },
+  {
+    "question": "What conclusion can be drawn from the one-way ANOVA example regarding pin diameters across machines?",
+    "chunk_id": "7adf2eb8-9733-43b4-ba48-6194b464510b",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.1. One-Way ANOVA"
+  },
+  {
+    "question": "What F-value and cut-off value are obtained in the one-way ANOVA table analysis for machine factor levels?",
+    "chunk_id": "7adf2eb8-9733-43b4-ba48-6194b464510b",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.1. One-Way ANOVA"
+  },
+  {
+    "question": "What conclusions are drawn from the scatter and box plots regarding the three wafers?",
+    "chunk_id": "bc1a2051-4fa9-430a-aa7a-ff0f644cc39e",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.2. Graphical Representation of the Data"
+  },
+  {
+    "question": "Is it reasonable to treat the wafer factor as homogeneous based on the graphical representation?",
+    "chunk_id": "bc1a2051-4fa9-430a-aa7a-ff0f644cc39e",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.2. Graphical Representation of the Data"
+  },
+  {
+    "question": "What is the key to performing an analysis of variance when studying process variation?",
+    "chunk_id": "67f85fdf-e550-4211-bf5b-97565eea0781",
+    "source_doc": "ppc",
+    "section_title": "3.4.4. Analyzing Variance Structure"
+  },
+  {
+    "question": "Where should one review if they want to learn more about ANOVA structural layouts like crossed or nested factors?",
+    "chunk_id": "67f85fdf-e550-4211-bf5b-97565eea0781",
+    "source_doc": "ppc",
+    "section_title": "3.4.4. Analyzing Variance Structure"
+  },
+  {
+    "question": "How is the southern oscillation defined in terms of barometric pressure?",
+    "chunk_id": "ec9ace51-246e-496f-8812-d767d6fc659c",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.1.2. Data Set of Southern Oscillations"
+  },
+  {
+    "question": "What southern oscillation value typically defines the occurrence of an el nino?",
+    "chunk_id": "ec9ace51-246e-496f-8812-d767d6fc659c",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.1.2. Data Set of Southern Oscillations"
+  },
+  {
+    "question": "What is the first step in selecting parameters and determining expected ranges and measurement resolution?",
+    "chunk_id": "0bbb1474-8aa4-4d4c-9a4d-b82aaf71c455",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.1. Identifying Parameters, Ranges and"
+  },
+  {
+    "question": "Why is defining expected ranges of values useful when analyzing process parameters?",
+    "chunk_id": "0bbb1474-8aa4-4d4c-9a4d-b82aaf71c455",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.1. Identifying Parameters, Ranges and"
+  },
+  {
+    "question": "What percentage of the total variation is attributed to cassette-to-cassette variation according to the variance calculations?",
+    "chunk_id": "4f31191f-62ab-45f4-a6cb-335f2798e86f",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.5. Work This Example Yourself"
+  },
+  {
+    "question": "What are the results of the mean and standard deviation control charts for CASSETTE in the example?",
+    "chunk_id": "4f31191f-62ab-45f4-a6cb-335f2798e86f",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.5. Work This Example Yourself"
+  },
+  {
+    "question": "What is the formula for the estimated variance of the EWMA statistic when t is not small?",
+    "chunk_id": "a3262c9f-8478-4331-aa30-397c76d70355",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.4. EWMA Control Charts"
+  },
+  {
+    "question": "What are the control limits definitions for an EWMA control chart?",
+    "chunk_id": "a3262c9f-8478-4331-aa30-397c76d70355",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.4. EWMA Control Charts"
+  },
+  {
+    "question": "What is the best possible design of experiment for fitting a line in linear modeling?",
+    "chunk_id": "c9c442fb-cb93-459a-9d40-2d9e6400355d",
+    "source_doc": "pmd",
+    "section_title": "4.3.2. Why is experimental design important for process modeling?"
+  },
+  {
+    "question": "Why is the \"dumbbell\" design considered optimal for linear modeling?",
+    "chunk_id": "c9c442fb-cb93-459a-9d40-2d9e6400355d",
+    "source_doc": "pmd",
+    "section_title": "4.3.2. Why is experimental design important for process modeling?"
+  },
+  {
+    "question": "How many complete seasons are advisable to use when estimating the trend factor from one period to the next?",
+    "chunk_id": "95e1881f-62a0-4556-aab8-3469b256f07a",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.5. Triple Exponential Smoothing"
+  },
+  {
+    "question": "How many periods equal two complete seasons for estimating trend factors?",
+    "chunk_id": "95e1881f-62a0-4556-aab8-3469b256f07a",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.5. Triple Exponential Smoothing"
+  },
+  {
+    "question": "What does the run sequence of Y show in the case study step 2?",
+    "chunk_id": "a73fecac-c257-43df-865f-1e0f63df9386",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.5. Work This Example Yourself"
+  },
+  {
+    "question": "What does the autocorrelation plot indicate about the data for variable Y?",
+    "chunk_id": "a73fecac-c257-43df-865f-1e0f63df9386",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.5. Work This Example Yourself"
+  },
+  {
+    "question": "What action do process engineers take when a process is found to be out-of-control?",
+    "chunk_id": "8b235010-ea7b-4eb3-9961-664a535a7609",
+    "source_doc": "pmc",
+    "section_title": "6.1.4. What to do if the process is \"Out of"
+  },
+  {
+    "question": "What rules are commonly used with classical Shewhart charts to determine out-of-control conditions?",
+    "chunk_id": "8b235010-ea7b-4eb3-9961-664a535a7609",
+    "source_doc": "pmc",
+    "section_title": "6.1.4. What to do if the process is \"Out of"
+  },
+  {
+    "question": "What formula is used to perform the test in discrete models with contingency tables?",
+    "chunk_id": "a06f913f-8369-4ed0-b3fb-0fdee90f2b5c",
+    "source_doc": "ppc",
+    "section_title": "3.2.4. Discrete Models"
+  },
+  {
+    "question": "At what point do the chi-square results start to break down in contingency table estimations?",
+    "chunk_id": "a06f913f-8369-4ed0-b3fb-0fdee90f2b5c",
+    "source_doc": "ppc",
+    "section_title": "3.2.4. Discrete Models"
+  },
+  {
+    "question": "What are the residual values for Machine 5 in the means table example?",
+    "chunk_id": "11c3a36b-7fe4-42f7-942c-a2fad5873a40",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.1.1. One-Way Value-Splitting"
+  },
+  {
+    "question": "What is the residual value for Machine 2, row 1 in the engineering statistics residuals table?",
+    "chunk_id": "11c3a36b-7fe4-42f7-942c-a2fad5873a40",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.1.1. One-Way Value-Splitting"
+  },
+  {
+    "question": "What is the average amount of inspection per lot when lot quality is between 0 and 1?",
+    "chunk_id": "28802c01-442d-453f-bde0-f8368400d2b8",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.2. Choosing a Sampling Plan with a given OC Curve"
+  },
+  {
+    "question": "How does average total inspection (ATI) per lot behave when all lots contain zero defectives versus when all items are defective?",
+    "chunk_id": "28802c01-442d-453f-bde0-f8368400d2b8",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.2. Choosing a Sampling Plan with a given OC Curve"
+  },
+  {
+    "question": "What is the expected ARL for a false alarm when a process is in control using 3-sigma control limits?",
+    "chunk_id": "4311245f-01c6-46b1-bca0-d5e42b310ce1",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.3.1. Cusum Average Run Length"
+  },
+  {
+    "question": "How is the Average Run Length (ARL) calculated when a process mean shifts up by 1 sigma?",
+    "chunk_id": "4311245f-01c6-46b1-bca0-d5e42b310ce1",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.3.1. Cusum Average Run Length"
+  },
+  {
+    "question": "How can defining expected ranges of values help in screening outliers?",
+    "chunk_id": "266f9690-5ef2-464d-91e2-1ff94a3991fc",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.1. Identifying Parameters, Ranges and"
+  },
+  {
+    "question": "What is the rule of thumb for specifying the required measurement resolution relative to tolerance?",
+    "chunk_id": "266f9690-5ef2-464d-91e2-1ff94a3991fc",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.1. Identifying Parameters, Ranges and"
+  },
+  {
+    "question": "What techniques are available to remedy model problems uncovered during residual analysis?",
+    "chunk_id": "dcc73db0-90be-41da-8312-f64f547a76dd",
+    "source_doc": "pmd",
+    "section_title": "4.4.5. If my current model does not fit the data"
+  },
+  {
+    "question": "How can you update a regression function or account for non-constant variation when a model does not fit well?",
+    "chunk_id": "dcc73db0-90be-41da-8312-f64f547a76dd",
+    "source_doc": "pmd",
+    "section_title": "4.4.5. If my current model does not fit the data"
+  },
+  {
+    "question": "What is the first step regarding data organization after executing a data collection plan for a characterization study?",
+    "chunk_id": "b0a70283-0efe-41b0-b53c-0ab9f5b9e161",
+    "source_doc": "ppc",
+    "section_title": "3.4.1. First Steps"
+  },
+  {
+    "question": "What tools are most useful for performing a quality check on gathered data to identify data entry problems?",
+    "chunk_id": "b0a70283-0efe-41b0-b53c-0ab9f5b9e161",
+    "source_doc": "ppc",
+    "section_title": "3.4.1. First Steps"
+  },
+  {
+    "question": "What are the basic steps and content sections for developing an effective process model in Section 4.4?",
+    "chunk_id": "654a97c7-17b3-4ed4-acab-e29e9151f328",
+    "source_doc": "pmd",
+    "section_title": "4.4. Data Analysis for Process Modeling"
+  },
+  {
+    "question": "How can I tell if a model fits my data, including testing for non-constant variation and normal distribution of errors?",
+    "chunk_id": "654a97c7-17b3-4ed4-acab-e29e9151f328",
+    "source_doc": "pmd",
+    "section_title": "4.4. Data Analysis for Process Modeling"
+  },
+  {
+    "question": "Where can examples illustrating the model-building sequence in real applications be found?",
+    "chunk_id": "794c844d-ebd8-40ff-8dcf-7f056e72e02e",
+    "source_doc": "pmd",
+    "section_title": "4.4.1. What are the basic steps for developing an effective process model?"
+  },
+  {
+    "question": "Why is considering model selection and fitting before collecting initial data a good idea?",
+    "chunk_id": "794c844d-ebd8-40ff-8dcf-7f056e72e02e",
+    "source_doc": "pmd",
+    "section_title": "4.4.1. What are the basic steps for developing an effective process model?"
+  },
+  {
+    "question": "Where can tables of the cumulative standard normal distribution be found?",
+    "chunk_id": "8c1449f0-e4b5-4671-96ff-e07e28614bcc",
+    "source_doc": "pmc",
+    "section_title": "6.5.1. What do we mean by \"Normal\" data?"
+  },
+  {
+    "question": "What is the area under the standard normal curve from minus one to plus one when mean is 0 and standard deviation is 1?",
+    "chunk_id": "8c1449f0-e4b5-4671-96ff-e07e28614bcc",
+    "source_doc": "pmc",
+    "section_title": "6.5.1. What do we mean by \"Normal\" data?"
+  },
+  {
+    "question": "What does it mean when triple exponential smoothing outputs zero coefficients for trend or seasonality?",
+    "chunk_id": "8776b49d-5e83-484d-80cc-bd05cd68d3c0",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.5. Triple Exponential Smoothing"
+  },
+  {
+    "question": "Does a zero coefficient in triple exponential smoothing indicate no trend or seasonality?",
+    "chunk_id": "8776b49d-5e83-484d-80cc-bd05cd68d3c0",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.5. Triple Exponential Smoothing"
+  },
+  {
+    "question": "How was throughput measured in the data collection process?",
+    "chunk_id": "1ae4f2ba-6bb4-4b4c-87cb-9aaeadf57c46",
+    "source_doc": "ppc",
+    "section_title": "3.5.2.1. Background and Data"
+  },
+  {
+    "question": "What tool and precision were used to measure part diameters in the study?",
+    "chunk_id": "1ae4f2ba-6bb4-4b4c-87cb-9aaeadf57c46",
+    "source_doc": "ppc",
+    "section_title": "3.5.2.1. Background and Data"
+  },
+  {
+    "question": "What is the title of section 9 for the Box-Jenkins Analysis sample output?",
+    "chunk_id": "945e3ae5-78be-4b8b-9370-a89f427c0c63",
+    "source_doc": "pmc",
+    "section_title": "6.4.4. Univariate Time Series Models"
+  },
+  {
+    "question": "Where can I find the SEMPLOT sample output for a Box-Jenkins analysis with seasonality?",
+    "chunk_id": "945e3ae5-78be-4b8b-9370-a89f427c0c63",
+    "source_doc": "pmc",
+    "section_title": "6.4.4. Univariate Time Series Models"
+  },
+  {
+    "question": "How is the previous period b added to eliminate lag in smoothing equations?",
+    "chunk_id": "4f3fdbad-a4f9-4ba5-b0e4-2d9e255605ab",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.3. Double Exponential Smoothing"
+  },
+  {
+    "question": "What brings S to the appropriate base of the current value in smoothing equations?",
+    "chunk_id": "4f3fdbad-a4f9-4ba5-b0e4-2d9e255605ab",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.3. Double Exponential Smoothing"
+  },
+  {
+    "question": "What are the main categories of Lot Acceptance Sampling Plans (LASPs)?",
+    "chunk_id": "c4771754-0f72-47cf-b634-6cdb608cd787",
+    "source_doc": "pmc",
+    "section_title": "6.2.2. What kinds of Lot Acceptance Sampling"
+  },
+  {
+    "question": "What decisions can be made based on counting the number of defectives in a sample under a LASP?",
+    "chunk_id": "c4771754-0f72-47cf-b634-6cdb608cd787",
+    "source_doc": "pmc",
+    "section_title": "6.2.2. What kinds of Lot Acceptance Sampling"
+  },
+  {
+    "question": "What does the Average Run Length (ARL) tell us about control charts?",
+    "chunk_id": "7a5ff017-c260-438a-a9e7-854ae43a5b6c",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.1. Shewhart X-bar and R and S Control Charts"
+  },
+  {
+    "question": "What is the ARL for a standard Shewhart chart with a normal distribution when there is no process change?",
+    "chunk_id": "7a5ff017-c260-438a-a9e7-854ae43a5b6c",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.1. Shewhart X-bar and R and S Control Charts"
+  },
+  {
+    "question": "What was the chi-square statistic calculated for the discrete models example comparing Process A and Process B?",
+    "chunk_id": "ecddcfc0-5281-4a71-8731-62eb3370212d",
+    "source_doc": "ppc",
+    "section_title": "3.2.4. Discrete Models"
+  },
+  {
+    "question": "What was the conclusion regarding the difference in process yield based on the chi-square statistic of 1.276?",
+    "chunk_id": "ecddcfc0-5281-4a71-8731-62eb3370212d",
+    "source_doc": "ppc",
+    "section_title": "3.2.4. Discrete Models"
+  },
+  {
+    "question": "What conclusion can be drawn from the box plots by factors regarding differences in location and spread?",
+    "chunk_id": "6c8ff499-51b7-4c58-95b1-7507bfc454c6",
+    "source_doc": "ppc",
+    "section_title": "3.5.2.2. Box Plots by Factors"
+  },
+  {
+    "question": "Do minor differences in location and spread show a noticeable pattern in the box plots by factors?",
+    "chunk_id": "6c8ff499-51b7-4c58-95b1-7507bfc454c6",
+    "source_doc": "ppc",
+    "section_title": "3.5.2.2. Box Plots by Factors"
+  },
+  {
+    "question": "What does the run sequence plot in a 4-plot analysis indicate about location and scale over time?",
+    "chunk_id": "87cc5002-dac5-4c39-bffe-ace667d3f733",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.2. Graphical Representation of the Data"
+  },
+  {
+    "question": "What insights about data distribution and autocorrelation can be gathered from a 4-plot analysis?",
+    "chunk_id": "87cc5002-dac5-4c39-bffe-ace667d3f733",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.2. Graphical Representation of the Data"
+  },
+  {
+    "question": "What class of nonlinear models is illustrated in the thermal expansion of copper case study?",
+    "chunk_id": "4d572477-8661-4ac6-8dfc-e229dba6b9ff",
+    "source_doc": "pmd",
+    "section_title": "4.6.4. Thermal Expansion of Copper Case"
+  },
+  {
+    "question": "Who provided the data set for the thermal expansion of copper case study?",
+    "chunk_id": "4d572477-8661-4ac6-8dfc-e229dba6b9ff",
+    "source_doc": "pmd",
+    "section_title": "4.6.4. Thermal Expansion of Copper Case"
+  },
+  {
+    "question": "Where can I find the background and data section 3.5.2.1 of the engineering statistics handbook?",
+    "chunk_id": "73f195cd-2ce1-49c9-9e90-6d31c9626c0e",
+    "source_doc": "ppc",
+    "section_title": "3.5.2.1. Background and Data"
+  },
+  {
+    "question": "What are the data values listed in section 3.5.2.1 for the process measurements?",
+    "chunk_id": "73f195cd-2ce1-49c9-9e90-6d31c9626c0e",
+    "source_doc": "ppc",
+    "section_title": "3.5.2.1. Background and Data"
+  },
+  {
+    "question": "How is matrix multiplication computed in terms of rows and columns?",
+    "chunk_id": "c19c5b52-8d6c-4f1c-bd60-45f14015318c",
+    "source_doc": "pmc",
+    "section_title": "6.5.3. Elements of Matrix Algebra"
+  },
+  {
+    "question": "What are the dimensionality rules and conditions for multiplying two matrices A and B?",
+    "chunk_id": "c19c5b52-8d6c-4f1c-bd60-45f14015318c",
+    "source_doc": "pmc",
+    "section_title": "6.5.3. Elements of Matrix Algebra"
+  },
+  {
+    "question": "What are the specific numerical data entries for the year 1957 in section pmc4412?",
+    "chunk_id": "0abd3243-7a45-46fe-a00f-00fff36daa29",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.1.2. Data Set of Southern Oscillations"
+  },
+  {
+    "question": "Where can I view the time series data table containing values from 1956 to 1958 with URL ending pmc4412.htm?",
+    "chunk_id": "0abd3243-7a45-46fe-a00f-00fff36daa29",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.1.2. Data Set of Southern Oscillations"
+  },
+  {
+    "question": "What was the purpose of studying a new process in the context of monitoring flow rate?",
+    "chunk_id": "15e514aa-c521-4db3-a500-b21f8bacab1b",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.2. Individuals Control Charts"
+  },
+  {
+    "question": "What are the initial flow rate and moving range values for the first 10 batches?",
+    "chunk_id": "15e514aa-c521-4db3-a500-b21f8bacab1b",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.2. Individuals Control Charts"
+  },
+  {
+    "question": "What is the main purpose of determining an appropriate Box-Jenkins model for particle size in the case study?",
+    "chunk_id": "75a555f7-e961-4574-9d7c-36534b21816d",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.1. Background and Data"
+  },
+  {
+    "question": "What software tools can be used to generate the analyses for the particle size case study?",
+    "chunk_id": "75a555f7-e961-4574-9d7c-36534b21816d",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.1. Background and Data"
+  },
+  {
+    "question": "What components make up a sampling scheme according to Military Standard 105D?",
+    "chunk_id": "b02ec827-e64d-464d-a847-fed00b4f3962",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.1. Choosing a Sampling Plan: MIL Standard 105D"
+  },
+  {
+    "question": "What is the foundational concept upon which Military Standard 105D is built?",
+    "chunk_id": "b02ec827-e64d-464d-a847-fed00b4f3962",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.1. Choosing a Sampling Plan: MIL Standard 105D"
+  },
+  {
+    "question": "What is the UCL value for alpha = .05 in the MEWMA example?",
+    "chunk_id": "f9d70417-a486-46af-b6ed-9b6ef1b278fe",
+    "source_doc": "pmc",
+    "section_title": "6.3.4.3. Multivariate EWMA Charts"
+  },
+  {
+    "question": "What data values and vectors are shown in the MEWMA plot example table?",
+    "chunk_id": "f9d70417-a486-46af-b6ed-9b6ef1b278fe",
+    "source_doc": "pmc",
+    "section_title": "6.3.4.3. Multivariate EWMA Charts"
+  },
+  {
+    "question": "Which machines produce smaller pin diameters according to the effects table?",
+    "chunk_id": "ad1b2c0b-5ca0-4e41-8e39-cb8ddb946e48",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.2.1. Two-way Crossed Value-Splitting Example"
+  },
+  {
+    "question": "What interaction effects were observed between machines and coolant types?",
+    "chunk_id": "ad1b2c0b-5ca0-4e41-8e39-cb8ddb946e48",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.2.1. Two-way Crossed Value-Splitting Example"
+  },
+  {
+    "question": "What is the formula for calculating ATI in a sampling plan?",
+    "chunk_id": "b2215450-0c41-407f-b9ef-e54d3e2c4bcd",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.2. Choosing a Sampling Plan with a given OC Curve"
+  },
+  {
+    "question": "What is the ATI value when N = 10000, n = 52, c = 3, and p = .03?",
+    "chunk_id": "b2215450-0c41-407f-b9ef-e54d3e2c4bcd",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.2. Choosing a Sampling Plan with a given OC Curve"
+  },
+  {
+    "question": "Where is detailed process optimization using models fit to response surface designs covered?",
+    "chunk_id": "a66ed244-f4c9-46f3-a938-d3c2280bc981",
+    "source_doc": "pmd",
+    "section_title": "4.5.3. How can I optimize my process using the"
+  },
+  {
+    "question": "What are the subsections under the single response case for optimizing a process in Chapter 5?",
+    "chunk_id": "a66ed244-f4c9-46f3-a938-d3c2280bc981",
+    "source_doc": "pmd",
+    "section_title": "4.5.3. How can I optimize my process using the"
+  },
+  {
+    "question": "Why is the T 2-chart the most popular among multivariate control charts?",
+    "chunk_id": "0edfe811-5175-4ba4-8088-e9173dae45dd",
+    "source_doc": "pmc",
+    "section_title": "6.3.4.1. Hotelling Control Charts"
+  },
+  {
+    "question": "How are the mean and covariance matrices estimated for n p-dimensional observation vectors?",
+    "chunk_id": "0edfe811-5175-4ba4-8088-e9173dae45dd",
+    "source_doc": "pmc",
+    "section_title": "6.3.4.1. Hotelling Control Charts"
+  },
+  {
+    "question": "What plot is considered an excellent tool for determining if there is a seasonal pattern?",
+    "chunk_id": "f7f3a73f-9514-4fc1-b440-09438b29c488",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.3.1. Seasonal Subseries Plot"
+  },
+  {
+    "question": "Which software languages can be used to generate seasonal subseries plots?",
+    "chunk_id": "f7f3a73f-9514-4fc1-b440-09438b29c488",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.3.1. Seasonal Subseries Plot"
+  },
+  {
+    "question": "Who developed the website for interactive ARL calculations for Shewhart charts?",
+    "chunk_id": "fd382df2-b67b-49ff-ac3d-6ab996686d53",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.1. Shewhart X-bar and R and S Control Charts"
+  },
+  {
+    "question": "Which section discusses Shewhart X-bar and R and S Control Charts?",
+    "chunk_id": "fd382df2-b67b-49ff-ac3d-6ab996686d53",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.1. Shewhart X-bar and R and S Control Charts"
+  },
+  {
+    "question": "Which machines have the greatest variability based on the residuals in the two-way nested example?",
+    "chunk_id": "a22e3fb7-c421-45e1-b9d9-7d60c5e35a6f",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.3.1. Two-Way Nested Value-Splitting Example"
+  },
+  {
+    "question": "What are the F-values for Machine and Operator(Machine) in the ANOVA table?",
+    "chunk_id": "a22e3fb7-c421-45e1-b9d9-7d60c5e35a6f",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.3.1. Two-Way Nested Value-Splitting Example"
+  },
+  {
+    "question": "What is the definition of Acceptable Quality Level (AQL) in Lot Acceptance Sampling Plans?",
+    "chunk_id": "09e4d2e4-01e3-4d3f-9ef7-80024ec2fd86",
+    "source_doc": "pmc",
+    "section_title": "6.2.2. What kinds of Lot Acceptance Sampling Plans (LASPs) are there?"
+  },
+  {
+    "question": "What does Lot Tolerance Percent Defective (LTPD) mean in acceptance sampling?",
+    "chunk_id": "09e4d2e4-01e3-4d3f-9ef7-80024ec2fd86",
+    "source_doc": "pmc",
+    "section_title": "6.2.2. What kinds of Lot Acceptance Sampling Plans (LASPs) are there?"
+  },
+  {
+    "question": "What does a slowly decaying autocorrelation plot indicate about a process?",
+    "chunk_id": "09dbf4d2-1331-478f-bd82-2fd7c44fba6b",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.2. Model Identification"
+  },
+  {
+    "question": "What are the interpretation steps for an autocorrelation plot in ARIMA model identification?",
+    "chunk_id": "09dbf4d2-1331-478f-bd82-2fd7c44fba6b",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.2. Model Identification"
+  },
+  {
+    "question": "What is the definition of Hotelling T-squared distance statistic?",
+    "chunk_id": "7fd7fe31-8ba6-4c76-8da3-3b45efe56880",
+    "source_doc": "pmc",
+    "section_title": "6.3.4.1. Hotelling Control Charts"
+  },
+  {
+    "question": "How is the Hotelling T-squared distance computed as a quadratic form?",
+    "chunk_id": "7fd7fe31-8ba6-4c76-8da3-3b45efe56880",
+    "source_doc": "pmc",
+    "section_title": "6.3.4.1. Hotelling Control Charts"
+  },
+  {
+    "question": "What is the definition of a Type II Error and consumer's risk in sampling plans?",
+    "chunk_id": "5597f79e-7749-4807-8d49-84a0699eb031",
+    "source_doc": "pmc",
+    "section_title": "6.2.2. What kinds of Lot Acceptance Sampling Plans (LASPs) are there?"
+  },
+  {
+    "question": "What does an Operating Characteristic (OC) curve plot on its axes?",
+    "chunk_id": "5597f79e-7749-4807-8d49-84a0699eb031",
+    "source_doc": "pmc",
+    "section_title": "6.2.2. What kinds of Lot Acceptance Sampling Plans (LASPs) are there?"
+  },
+  {
+    "question": "What is Kaiser's rule-of-thumb for determining the number of eigenvalues in principal components?",
+    "chunk_id": "b05e87c0-3eda-439e-9b17-f0d6f1fc286a",
+    "source_doc": "pmc",
+    "section_title": "6.5.5.1. Properties of Principal Components"
+  },
+  {
+    "question": "How is the factor structure matrix S computed in principal components analysis?",
+    "chunk_id": "b05e87c0-3eda-439e-9b17-f0d6f1fc286a",
+    "source_doc": "pmc",
+    "section_title": "6.5.5.1. Properties of Principal Components"
+  },
+  {
+    "question": "How can the autocorrelation plot help identify seasonality if the period is unknown?",
+    "chunk_id": "880ca9bc-2943-4f0c-89bb-66f8a728ea86",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.3. Seasonality"
+  },
+  {
+    "question": "What pattern does an autocorrelation plot show when significant seasonality is present?",
+    "chunk_id": "880ca9bc-2943-4f0c-89bb-66f8a728ea86",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.3. Seasonality"
+  },
+  {
+    "question": "What value maximizes the log-likelihood function in the provided table example?",
+    "chunk_id": "f5bed26a-fd80-4878-b7dc-6c706351b912",
+    "source_doc": "pmc",
+    "section_title": "6.5.2. What do we do when data are non-normal"
+  },
+  {
+    "question": "What criteria are used to choose lambda for the Box-Cox linearity plot?",
+    "chunk_id": "f5bed26a-fd80-4878-b7dc-6c706351b912",
+    "source_doc": "pmc",
+    "section_title": "6.5.2. What do we do when data are non-normal"
+  },
+  {
+    "question": "Where can I find the background and data values for section 3.5.1.1 of the engineering statistics handbook?",
+    "chunk_id": "0c599eb1-358a-4201-bdf0-09b39bd3314f",
+    "source_doc": "ppc",
+    "section_title": "3.5.1.1. Background and Data"
+  },
+  {
+    "question": "What are the raw data table values listed in the PPC 5.11 section of the NIST handbook?",
+    "chunk_id": "0c599eb1-358a-4201-bdf0-09b39bd3314f",
+    "source_doc": "ppc",
+    "section_title": "3.5.1.1. Background and Data"
+  },
+  {
+    "question": "What are the formulas for the D3 and D4 factors used in calculating control chart limits?",
+    "chunk_id": "21a8db6a-5b51-4161-9c4c-14dd86d8f669",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.1. Shewhart X-bar and R and S Control Charts"
+  },
+  {
+    "question": "What is the table value for D4 when n equals 2 in X-bar and R charts?",
+    "chunk_id": "21a8db6a-5b51-4161-9c4c-14dd86d8f669",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.1. Shewhart X-bar and R and S Control Charts"
+  },
+  {
+    "question": "What case study illustrates the construction of a linear regression model for Alaska pipeline ultrasonic calibration data?",
+    "chunk_id": "ba77d04a-7d45-426d-8ba5-d87a5f56579d",
+    "source_doc": "pmd",
+    "section_title": "4.6.2. Alaska Pipeline"
+  },
+  {
+    "question": "What does the Alaska pipeline example demonstrate regarding the violation of homogeneous variances?",
+    "chunk_id": "ba77d04a-7d45-426d-8ba5-d87a5f56579d",
+    "source_doc": "pmd",
+    "section_title": "4.6.2. Alaska Pipeline"
+  },
+  {
+    "question": "What probability limits might control limits be pictured as in the control chart graph?",
+    "chunk_id": "7b67fa1b-dcb9-446b-b73e-3897d3d987d1",
+    "source_doc": "pmc",
+    "section_title": "6.3.1. What are Control Charts?"
+  },
+  {
+    "question": "What does a control chart with .001 probability limits imply about a point falling above the upper limit?",
+    "chunk_id": "7b67fa1b-dcb9-446b-b73e-3897d3d987d1",
+    "source_doc": "pmc",
+    "section_title": "6.3.1. What are Control Charts?"
+  },
+  {
+    "question": "Which column in the gas data table contains the observed pressure of the gas as the response variable?",
+    "chunk_id": "0934705e-a996-4fb7-bc47-4b7bceb13cdd",
+    "source_doc": "pmd",
+    "section_title": "4.4.4. How can I tell if a model fits my data?"
+  },
+  {
+    "question": "What do the last column and the sixth column represent in the gas temperature and pressure dataset?",
+    "chunk_id": "0934705e-a996-4fb7-bc47-4b7bceb13cdd",
+    "source_doc": "pmd",
+    "section_title": "4.4.4. How can I tell if a model fits my data?"
+  },
+  {
+    "question": "What do the DOE sd plots show regarding the lots and sites?",
+    "chunk_id": "366cf5e4-bfba-498e-aa4a-21c38b78719e",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.2. Graphical Representation of the Data"
+  },
+  {
+    "question": "How can subgroups be created for the dataset involving lots, wafers, and sites?",
+    "chunk_id": "366cf5e4-bfba-498e-aa4a-21c38b78719e",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.2. Graphical Representation of the Data"
+  },
+  {
+    "question": "How is d/d used as an estimator of sigma in the parameters of the chart?",
+    "chunk_id": "6485915b-23b2-4b5f-aea8-b1b58459eada",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.1. Shewhart X-bar and R and S Control Charts"
+  },
+  {
+    "question": "What is the simplest way to describe the limits and construction of the chart parameters?",
+    "chunk_id": "6485915b-23b2-4b5f-aea8-b1b58459eada",
+    "source_doc": "pmc",
+    "section_title": "6.3.2.1. Shewhart X-bar and R and S Control Charts"
+  },
+  {
+    "question": "What are the error term assumptions for a stable univariate process in Box-Jenkins model diagnostics?",
+    "chunk_id": "308a2f40-9a09-40e3-ae65-3bda25fa316b",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.8. Box-Jenkins Model Diagnostics"
+  },
+  {
+    "question": "How can one assess if the residuals from a Box-Jenkins model follow the required assumptions?",
+    "chunk_id": "308a2f40-9a09-40e3-ae65-3bda25fa316b",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.8. Box-Jenkins Model Diagnostics"
+  },
+  {
+    "question": "What is the purpose of seasonal subseries plots in time series analysis?",
+    "chunk_id": "fda87b16-8123-4696-9b43-b3e5273b37f0",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.3.1. Seasonal Subseries Plot"
+  },
+  {
+    "question": "When is a seasonal subseries plot considered useful, and how can the period be determined if it is unknown?",
+    "chunk_id": "fda87b16-8123-4696-9b43-b3e5273b37f0",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.3.1. Seasonal Subseries Plot"
+  },
+  {
+    "question": "What is the first step when sketching out values in these situations?",
+    "chunk_id": "de2231b4-3c1f-47c5-a476-15c721e387d9",
+    "source_doc": "pmd",
+    "section_title": "4.3.3. What are some general design principles for process modeling?"
+  },
+  {
+    "question": "How should the vertical axis be partitioned according to the curve sketching instructions?",
+    "chunk_id": "de2231b4-3c1f-47c5-a476-15c721e387d9",
+    "source_doc": "pmd",
+    "section_title": "4.3.3. What are some general design principles for process modeling?"
+  },
+  {
+    "question": "What does the term model refer to in its correct usage by statisticians?",
+    "chunk_id": "da0bdf0f-5cd1-4724-bb19-86f4d5cf2375",
+    "source_doc": "pmd",
+    "section_title": "4.1.2. What terminology do statisticians use to describe process models?"
+  },
+  {
+    "question": "Why is it incorrect to assume the term model refers exclusively to the mathematical function?",
+    "chunk_id": "da0bdf0f-5cd1-4724-bb19-86f4d5cf2375",
+    "source_doc": "pmd",
+    "section_title": "4.1.2. What terminology do statisticians use to describe process models?"
+  },
+  {
+    "question": "How many controlled and uncontrolled factors influence film thickness in the process model example?",
+    "chunk_id": "da71fd00-26c6-4007-8282-552c5f3835b7",
+    "source_doc": "ppc",
+    "section_title": "3.5.1.1. Background and Data"
+  },
+  {
+    "question": "What effect do the different zones in the furnace have on the oxide growth process?",
+    "chunk_id": "da71fd00-26c6-4007-8282-552c5f3835b7",
+    "source_doc": "ppc",
+    "section_title": "3.5.1.1. Background and Data"
+  },
+  {
+    "question": "What are the section topics covered in the lithography process case study?",
+    "chunk_id": "b1b16dad-e847-4453-9259-361acab6e9b7",
+    "source_doc": "pmc",
+    "section_title": "6.6.1. Lithography Process"
+  },
+  {
+    "question": "Where can you find the Shewhart Control Chart section for the lithography process case study?",
+    "chunk_id": "b1b16dad-e847-4453-9259-361acab6e9b7",
+    "source_doc": "pmc",
+    "section_title": "6.6.1. Lithography Process"
+  },
+  {
+    "question": "How many parameters must be estimated if p equals 30?",
+    "chunk_id": "9d4f9408-2370-43c3-9b1c-7db13f21e7a4",
+    "source_doc": "pmc",
+    "section_title": "6.5.5. Principal Components"
+  },
+  {
+    "question": "Why does transforming data to obtain a vector of uncorrelated variables make life more bearable?",
+    "chunk_id": "9d4f9408-2370-43c3-9b1c-7db13f21e7a4",
+    "source_doc": "pmc",
+    "section_title": "6.5.5. Principal Components"
+  },
+  {
+    "question": "What is the only way to reduce the final sample size if it is scrutinized and found unacceptable?",
+    "chunk_id": "5bf0961e-6090-471c-89d5-cd5d94e3ef0c",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.3. Selecting Sample Sizes"
+  },
+  {
+    "question": "How do we begin when we are sampling proportions according to the probability statement?",
+    "chunk_id": "5bf0961e-6090-471c-89d5-cd5d94e3ef0c",
+    "source_doc": "ppc",
+    "section_title": "3.3.3.3. Selecting Sample Sizes"
+  },
+  {
+    "question": "Why is the mean square for the total sum of squares usually not calculated?",
+    "chunk_id": "71b5554e-180f-458e-a40d-52fde337a289",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.1.1. One-Way Value-Splitting"
+  },
+  {
+    "question": "How is the residual sum of squares calculated?",
+    "chunk_id": "71b5554e-180f-458e-a40d-52fde337a289",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.1.1. One-Way Value-Splitting"
+  },
+  {
+    "question": "What do the box plots conclude about cassette as a factor for small or large particles?",
+    "chunk_id": "29a4bed7-7d49-421d-8445-2bd483824c9f",
+    "source_doc": "ppc",
+    "section_title": "3.4.2.2. Exploring Main Effects"
+  },
+  {
+    "question": "Which variable is explored using box plots of small and large particles after the cassette variable?",
+    "chunk_id": "29a4bed7-7d49-421d-8445-2bd483824c9f",
+    "source_doc": "ppc",
+    "section_title": "3.4.2.2. Exploring Main Effects"
+  },
+  {
+    "question": "What are the degrees of freedom and sum of squares for Run in the nested analysis of variance table?",
+    "chunk_id": "c38dfd27-f522-4c95-b264-eec4b4832876",
+    "source_doc": "ppc",
+    "section_title": "3.5.1.4. Analysis of Variance"
+  },
+  {
+    "question": "How are the components of variance calculated from the furnace location data set?",
+    "chunk_id": "c38dfd27-f522-4c95-b264-eec4b4832876",
+    "source_doc": "ppc",
+    "section_title": "3.5.1.4. Analysis of Variance"
+  },
+  {
+    "question": "Where can I find a menu of different functions to learn about function shapes and flexibility?",
+    "chunk_id": "563f4331-75f6-4f24-b5d9-410afd039032",
+    "source_doc": "pmd",
+    "section_title": "4.4.2. How do I select a function to describe my"
+  },
+  {
+    "question": "Which section discusses combining general function features and qualitative scientific information for model selection?",
+    "chunk_id": "563f4331-75f6-4f24-b5d9-410afd039032",
+    "source_doc": "pmd",
+    "section_title": "4.4.2. How do I select a function to describe my"
+  },
+  {
+    "question": "What did the load cell calibration case study reveal about the initially assumed model?",
+    "chunk_id": "81d24544-9ff8-4445-abe1-068017163329",
+    "source_doc": "pmd",
+    "section_title": "4.4.2. How do I select a function to describe my"
+  },
+  {
+    "question": "Why is having a wide knowledge of mathematical function shapes helpful in model selection?",
+    "chunk_id": "81d24544-9ff8-4445-abe1-068017163329",
+    "source_doc": "pmd",
+    "section_title": "4.4.2. How do I select a function to describe my"
+  },
+  {
+    "question": "What measurement is recorded as the turned pin diameter in the two-way nested value-splitting example?",
+    "chunk_id": "710944c8-ce1c-4912-9287-44d5c884496d",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.3.1. Two-Way Nested Value-Splitting Example"
+  },
+  {
+    "question": "How are the residual values obtained in a nested two-way value-splitting example?",
+    "chunk_id": "710944c8-ce1c-4912-9287-44d5c884496d",
+    "source_doc": "ppc",
+    "section_title": "3.2.3.3.1. Two-Way Nested Value-Splitting Example"
+  },
+  {
+    "question": "What are the data values and corresponding time stamps for the 1974 series measurements?",
+    "chunk_id": "55586eec-180d-450f-b823-b79b61020d09",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.1.2. Data Set of Southern Oscillations"
+  },
+  {
+    "question": "Where does the dataset containing the 1974 measurements and residuals come from?",
+    "chunk_id": "55586eec-180d-450f-b823-b79b61020d09",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.1.2. Data Set of Southern Oscillations"
+  },
+  {
+    "question": "What are the residual and time values recorded for the 1962 and 1963 data series?",
+    "chunk_id": "c29479dc-7556-4332-bc85-91c39f51a128",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.1.2. Data Set of Southern Oscillations"
+  },
+  {
+    "question": "What is the source URL for the data table containing the 1962 through 1964 measurements?",
+    "chunk_id": "c29479dc-7556-4332-bc85-91c39f51a128",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.1.2. Data Set of Southern Oscillations"
+  },
+  {
+    "question": "What is a symmetric matrix D in the context of sample covariance?",
+    "chunk_id": "f5954391-f2da-4879-8878-936d97077908",
+    "source_doc": "pmc",
+    "section_title": "6.5.3.2. Determinant and Eigenstructure"
+  },
+  {
+    "question": "What is the determinant of the sample variance-covariance matrix D sometimes called?",
+    "chunk_id": "f5954391-f2da-4879-8878-936d97077908",
+    "source_doc": "pmc",
+    "section_title": "6.5.3.2. Determinant and Eigenstructure"
+  },
+  {
+    "question": "What are the top, left, center, right, and bottom values recorded for sample 25 in the dataset?",
+    "chunk_id": "b3a404ac-9b1d-49dd-bb8d-0437dd7fcdfb",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.1. Background and Data"
+  },
+  {
+    "question": "What specific location measurements are listed under sample 25 in the data table?",
+    "chunk_id": "b3a404ac-9b1d-49dd-bb8d-0437dd7fcdfb",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.1. Background and Data"
+  },
+  {
+    "question": "Who proposed the general model for control charts in the 1920's?",
+    "chunk_id": "f9a9f302-447a-4689-9033-2686388e61da",
+    "source_doc": "pmc",
+    "section_title": "6.3.2. What are Variables Control Charts?"
+  },
+  {
+    "question": "What standard value for k is typically used in industry for 3-sigma control charts?",
+    "chunk_id": "f9a9f302-447a-4689-9033-2686388e61da",
+    "source_doc": "pmc",
+    "section_title": "6.3.2. What are Variables Control Charts?"
+  },
+  {
+    "question": "What case study illustrates the use of Box-Jenkins modeling with aerosol particle size data?",
+    "chunk_id": "20952e31-6e35-45b5-96a0-bf86757151fc",
+    "source_doc": "pmc",
+    "section_title": "6.6.2. Aerosol Particle Size"
+  },
+  {
+    "question": "What are the sections covered in the aerosol particle size Box-Jenkins modeling case study?",
+    "chunk_id": "20952e31-6e35-45b5-96a0-bf86757151fc",
+    "source_doc": "pmc",
+    "section_title": "6.6.2. Aerosol Particle Size"
+  },
+  {
+    "question": "How is process variability represented both numerically and graphically?",
+    "chunk_id": "b2e0a30b-9d79-41ff-abe5-09e90d08d903",
+    "source_doc": "ppc",
+    "section_title": "3.1.3.2. Process Variability"
+  },
+  {
+    "question": "What percentage of data falls within three standard deviations of the average according to the Empirical Rule?",
+    "chunk_id": "b2e0a30b-9d79-41ff-abe5-09e90d08d903",
+    "source_doc": "ppc",
+    "section_title": "3.1.3.2. Process Variability"
+  },
+  {
+    "question": "What graphical tool can be used to visually see interactions between factors?",
+    "chunk_id": "b472e4b7-617a-4a87-90b8-a606088b3c91",
+    "source_doc": "ppc",
+    "section_title": "3.4.2.3. Exploring First Order Interactions"
+  },
+  {
+    "question": "Why should caution be exercised when identifying interactions through graphical means alone?",
+    "chunk_id": "b472e4b7-617a-4a87-90b8-a606088b3c91",
+    "source_doc": "ppc",
+    "section_title": "3.4.2.3. Exploring First Order Interactions"
+  },
+  {
+    "question": "What do D-optimal designs minimize?",
+    "chunk_id": "e8905ddf-57c2-4202-a4a6-10f45390d876",
+    "source_doc": "pmd",
+    "section_title": "4.3.4. I've heard some people refer to \"optimal\" designs, shouldn't I use those?"
+  },
+  {
+    "question": "What are the disadvantages of using optimal designs?",
+    "chunk_id": "e8905ddf-57c2-4202-a4a6-10f45390d876",
+    "source_doc": "pmd",
+    "section_title": "4.3.4. I've heard some people refer to \"optimal\" designs, shouldn't I use those?"
+  },
+  {
+    "question": "What are the six typical underlying assumptions for process modeling?",
+    "chunk_id": "3da5fe15-1f8e-4c8c-b6ba-307b4d4b8324",
+    "source_doc": "pmd",
+    "section_title": "4.2.1. What are the typical underlying"
+  },
+  {
+    "question": "Which section discusses methods for checking the validity of process modeling assumptions?",
+    "chunk_id": "3da5fe15-1f8e-4c8c-b6ba-307b4d4b8324",
+    "source_doc": "pmd",
+    "section_title": "4.2.1. What are the typical underlying"
+  },
+  {
+    "question": "What tools are used to elicit fine structure in data during model building?",
+    "chunk_id": "b851adc6-31d5-4791-be88-96a0d10ae274",
+    "source_doc": "pmd",
+    "section_title": "4.4.2. How do I select a function to describe my"
+  },
+  {
+    "question": "Why is model building considered an iterative process?",
+    "chunk_id": "b851adc6-31d5-4791-be88-96a0d10ae274",
+    "source_doc": "pmd",
+    "section_title": "4.4.2. How do I select a function to describe my"
+  },
+  {
+    "question": "Which reference book by Neter, Wasserman, and Kutner is listed in Chapter 4 references?",
+    "chunk_id": "0cf9209f-914e-4a25-921d-9d11e9ac184f",
+    "source_doc": "pmd",
+    "section_title": "4.7. References For Chapter 4: Process Modeling"
+  },
+  {
+    "question": "Who authored the 1986 book 'The History of Statistics: The Measurement of Uncertainty Before 1900'?",
+    "chunk_id": "0cf9209f-914e-4a25-921d-9d11e9ac184f",
+    "source_doc": "pmd",
+    "section_title": "4.7. References For Chapter 4: Process Modeling"
+  },
+  {
+    "question": "What is the main goal of the Production Process Characterization chapter?",
+    "chunk_id": "790066e9-454d-4022-9e92-372f3d688a97",
+    "source_doc": "ppc",
+    "section_title": ""
+  },
+  {
+    "question": "What are the main topic sections listed in the Production Process Characterization table of contents?",
+    "chunk_id": "790066e9-454d-4022-9e92-372f3d688a97",
+    "source_doc": "ppc",
+    "section_title": ""
+  },
+  {
+    "question": "What specific parameters and data distribution were used in the MEWMA control chart example?",
+    "chunk_id": "3353c2b9-5225-4bf5-810c-4e1e2a972f21",
+    "source_doc": "pmc",
+    "section_title": "6.3.4.3. Multivariate EWMA Charts"
+  },
+  {
+    "question": "What are the computer routine output values for the MEWMA vectors and statistics in the bivariate normal distribution example?",
+    "chunk_id": "3353c2b9-5225-4bf5-810c-4e1e2a972f21",
+    "source_doc": "pmc",
+    "section_title": "6.3.4.3. Multivariate EWMA Charts"
+  },
+  {
+    "question": "Which statistical software package used throughout the handbook has the capability to construct multivariate control charts?",
+    "chunk_id": "e4def107-186c-4fa9-a140-4ab4cbdab4b9",
+    "source_doc": "pmc",
+    "section_title": "6.5.4.3.6. Constructing Multivariate Charts"
+  },
+  {
+    "question": "Why is it impractical to construct multivariate control charts by hand?",
+    "chunk_id": "e4def107-186c-4fa9-a140-4ab4cbdab4b9",
+    "source_doc": "pmc",
+    "section_title": "6.5.4.3.6. Constructing Multivariate Charts"
+  },
+  {
+    "question": "What four attributes does the adequacy of a sample depend on?",
+    "chunk_id": "06b1e78a-80af-4623-8c56-cb38f13d994a",
+    "source_doc": "ppc",
+    "section_title": "3.1.3.4. Populations and Sampling"
+  },
+  {
+    "question": "When can sample data be considered a reasonable approximation of facts about a population?",
+    "chunk_id": "06b1e78a-80af-4623-8c56-cb38f13d994a",
+    "source_doc": "ppc",
+    "section_title": "3.1.3.4. Populations and Sampling"
+  },
+  {
+    "question": "What effects are shown by the DOE mean and standard deviation plots for CASSETTE, SITE, and WAFER?",
+    "chunk_id": "d6c41d48-da20-44f4-b032-c36261ee3d07",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.5. Work This Example Yourself"
+  },
+  {
+    "question": "What are the steps involved in subgroup analysis regarding moving mean and range control charts?",
+    "chunk_id": "d6c41d48-da20-44f4-b032-c36261ee3d07",
+    "source_doc": "pmc",
+    "section_title": "6.6.1.5. Work This Example Yourself"
+  },
+  {
+    "question": "What is the first step for computing initial values for seasonal indices in triple exponential smoothing?",
+    "chunk_id": "bd7eabdb-bd5a-4f4a-9003-cc5b2737f4bd",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.5. Triple Exponential Smoothing"
+  },
+  {
+    "question": "How are the initial seasonal indices formed after dividing observations by yearly averages?",
+    "chunk_id": "bd7eabdb-bd5a-4f4a-9003-cc5b2737f4bd",
+    "source_doc": "pmc",
+    "section_title": "6.4.3.5. Triple Exponential Smoothing"
+  },
+  {
+    "question": "How is the fraction or proportion nonconforming in a population defined?",
+    "chunk_id": "4455b5af-329b-41c5-8e3f-c321011b1627",
+    "source_doc": "pmc",
+    "section_title": "6.3.3.2. Proportions Control Charts"
+  },
+  {
+    "question": "What underlying statistical distribution are the principles for a proportion nonconforming control chart based on?",
+    "chunk_id": "4455b5af-329b-41c5-8e3f-c321011b1627",
+    "source_doc": "pmc",
+    "section_title": "6.3.3.2. Proportions Control Charts"
+  },
+  {
+    "question": "What are the acceptance and rejection numbers for n = 24 in the sequential sampling plan example?",
+    "chunk_id": "1d2f62e6-12a7-4bc4-9f4c-ec069f8b1b2f",
+    "source_doc": "pmc",
+    "section_title": "6.2.6. What is a Sequential Sampling Plan?"
+  },
+  {
+    "question": "What parameters are used as functions for the two limit line equations in a sequential sampling plan?",
+    "chunk_id": "1d2f62e6-12a7-4bc4-9f4c-ec069f8b1b2f",
+    "source_doc": "pmc",
+    "section_title": "6.2.6. What is a Sequential Sampling Plan?"
+  },
+  {
+    "question": "What model is most commonly used when analyzing multivariate data?",
+    "chunk_id": "f39307e7-d303-4ad5-bd75-c87062808dce",
+    "source_doc": "pmc",
+    "section_title": "6.5.4.2. The Multivariate Normal Distribution"
+  },
+  {
+    "question": "How is the multivariate normal distribution defined for a p-dimensional vector?",
+    "chunk_id": "f39307e7-d303-4ad5-bd75-c87062808dce",
+    "source_doc": "pmc",
+    "section_title": "6.5.4.2. The Multivariate Normal Distribution"
+  },
+  {
+    "question": "What are some of the raw data values listed in the background section 3.5.2.1?",
+    "chunk_id": "cbfac465-8be0-42e9-a668-1f96ef3fed92",
+    "source_doc": "ppc",
+    "section_title": "3.5.2.1. Background and Data"
+  },
+  {
+    "question": "Where does the numerical sequence data in section 3.5.2.1 come from?",
+    "chunk_id": "cbfac465-8be0-42e9-a668-1f96ef3fed92",
+    "source_doc": "ppc",
+    "section_title": "3.5.2.1. Background and Data"
+  },
+  {
+    "question": "Which book on time series analysis was authored by Box, Jenkins, and Reinsel?",
+    "chunk_id": "391bdd29-03e5-461a-b3c1-301857076105",
+    "source_doc": "pmc",
+    "section_title": "6.7. References"
+  },
+  {
+    "question": "What are the selected references for time series analysis in section 6.7?",
+    "chunk_id": "391bdd29-03e5-461a-b3c1-301857076105",
+    "source_doc": "pmc",
+    "section_title": "6.7. References"
+  },
+  {
+    "question": "What model does the partial autocorrelation plot suggest for the CO2 concentrations data?",
+    "chunk_id": "08c7aaeb-7234-4fc7-bc35-cec4bf262c33",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.6.2. Model Identification for the CO<sub>2</sub> Concentrations Data"
+  },
+  {
+    "question": "What initial model attempt is recommended for the CO2 data after removing a linear trend line?",
+    "chunk_id": "08c7aaeb-7234-4fc7-bc35-cec4bf262c33",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.6.2. Model Identification for the CO<sub>2</sub> Concentrations Data"
+  },
+  {
+    "question": "What are the two major methods of parameter estimation for process models?",
+    "chunk_id": "d6aad31a-d81b-483b-a043-1df5f8f97497",
+    "source_doc": "pmd",
+    "section_title": "4.4.3. How are estimates of the unknown"
+  },
+  {
+    "question": "When are the least squares and maximum likelihood parameter estimators identical?",
+    "chunk_id": "d6aad31a-d81b-483b-a043-1df5f8f97497",
+    "source_doc": "pmd",
+    "section_title": "4.4.3. How are estimates of the unknown"
+  },
+  {
+    "question": "What is the recommended sample size for process capability studies?",
+    "chunk_id": "33d1aa0a-d4fe-40d3-812f-f675759b71b7",
+    "source_doc": "pmc",
+    "section_title": "6.1.6. What is Process Capability?"
+  },
+  {
+    "question": "What is the calculated minimum capability index (Cpk) in the process capability example?",
+    "chunk_id": "33d1aa0a-d4fe-40d3-812f-f675759b71b7",
+    "source_doc": "pmc",
+    "section_title": "6.1.6. What is Process Capability?"
+  },
+  {
+    "question": "Who introduced the T-squared statistic for multivariate control charts in 1947?",
+    "chunk_id": "5b41c2c1-777a-47d3-a586-89a8ddd6301f",
+    "source_doc": "pmc",
+    "section_title": "6.3.4. What are Multivariate Control Charts?"
+  },
+  {
+    "question": "Why was the acceptance of multivariate control charts by industry initially slow?",
+    "chunk_id": "5b41c2c1-777a-47d3-a586-89a8ddd6301f",
+    "source_doc": "pmc",
+    "section_title": "6.3.4. What are Multivariate Control Charts?"
+  },
+  {
+    "question": "What does the run sequence plot in the ARIMA(0,1,1) model validation indicate about the residuals?",
+    "chunk_id": "db10e44d-59db-4652-952e-45a6b498f5dd",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.4. Model Validation"
+  },
+  {
+    "question": "What do the histogram and normal probability plot indicate about the fitted ARIMA(0,1,1) model?",
+    "chunk_id": "db10e44d-59db-4652-952e-45a6b498f5dd",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.4. Model Validation"
+  },
+  {
+    "question": "What is the source of the data for the aerosol mini-spray dryer case study?",
+    "chunk_id": "88156712-00b8-4414-91c3-d3df5ce77a86",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.1. Background and Data"
+  },
+  {
+    "question": "How are particles formed from a slurry stream in an aerosol mini-spray dryer device?",
+    "chunk_id": "88156712-00b8-4414-91c3-d3df5ce77a86",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.1. Background and Data"
+  },
+  {
+    "question": "How do you remove trend in a seasonal time series data series during a Box-Jenkins analysis?",
+    "chunk_id": "89cd3bd0-5f0a-48ba-9922-76bda1dd1dc9",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.10. Box-Jenkins Analysis on Seasonal Data"
+  },
+  {
+    "question": "What plot is used to identify an appropriate model for seasonality after removing the trend?",
+    "chunk_id": "89cd3bd0-5f0a-48ba-9922-76bda1dd1dc9",
+    "source_doc": "pmc",
+    "section_title": "6.4.4.10. Box-Jenkins Analysis on Seasonal Data"
+  },
+  {
+    "question": "What are the parameters of the normal distribution?",
+    "chunk_id": "3a101a0e-3650-46b7-9a1b-e4a91da77fa7",
+    "source_doc": "pmc",
+    "section_title": "6.5.1. What do we mean by \"Normal\" data?"
+  },
+  {
+    "question": "What shape characterizes the normal distribution?",
+    "chunk_id": "3a101a0e-3650-46b7-9a1b-e4a91da77fa7",
+    "source_doc": "pmc",
+    "section_title": "6.5.1. What do we mean by \"Normal\" data?"
+  },
+  {
+    "question": "What are polynomial models used for in the context of input parameters?",
+    "chunk_id": "f8ad2c53-db02-48ee-852a-256db33265eb",
+    "source_doc": "ppc",
+    "section_title": "3.4.3.1. Fitting Polynomial Models"
+  },
+  {
+    "question": "What do we call the single x-terms and squared terms in a quadratic polynomial model?",
+    "chunk_id": "f8ad2c53-db02-48ee-852a-256db33265eb",
+    "source_doc": "ppc",
+    "section_title": "3.4.3.1. Fitting Polynomial Models"
+  },
+  {
+    "question": "What standard probability limit is customary to use for control charts in quality control?",
+    "chunk_id": "fb1d1088-fe13-40a0-8953-f7cd5108e5c7",
+    "source_doc": "pmc",
+    "section_title": "6.3.1. What are Control Charts?"
+  },
+  {
+    "question": "What do 0.001 probability limits correspond to when process variation follows a normal distribution?",
+    "chunk_id": "fb1d1088-fe13-40a0-8953-f7cd5108e5c7",
+    "source_doc": "pmc",
+    "section_title": "6.3.1. What are Control Charts?"
+  },
+  {
+    "question": "What kind of equations are formed when assuming binomial sampling for sample size n and acceptance number c?",
+    "chunk_id": "ad649ad2-d469-428d-a4f9-2680cf25248e",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.2. Choosing a Sampling Plan with a given OC Curve"
+  },
+  {
+    "question": "What techniques are used to solve the nonlinear simultaneous equations for binomial sampling?",
+    "chunk_id": "ad649ad2-d469-428d-a4f9-2680cf25248e",
+    "source_doc": "pmc",
+    "section_title": "6.2.3.2. Choosing a Sampling Plan with a given OC Curve"
+  },
+  {
+    "question": "What are the numerical values listed under the background and data section for the aerosol mini-spray dryer case study?",
+    "chunk_id": "e1abdf2a-bea0-49cb-8d86-ffeb589d8cd2",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.1. Background and Data"
+  },
+  {
+    "question": "Where can I find the raw numerical dataset associated with section 6.6.2.1 of the NIST engineering statistics handbook?",
+    "chunk_id": "e1abdf2a-bea0-49cb-8d86-ffeb589d8cd2",
+    "source_doc": "pmc",
+    "section_title": "6.6.2.1. Background and Data"
+  },
+  {
+    "question": "What is the moving average calculation for the first 3 numbers of the given supplier dollar amounts?",
+    "chunk_id": "000d4411-dbda-44c0-b671-a63b19337fda",
+    "source_doc": "pmc",
+    "section_title": "6.4.2.1. Single Moving Average"
+  },
+  {
+    "question": "What example dataset of 12 supplier dollar amounts is used to explain the single moving average smoothing process?",
+    "chunk_id": "000d4411-dbda-44c0-b671-a63b19337fda",
+    "source_doc": "pmc",
+    "section_title": "6.4.2.1. Single Moving Average"
+  }
+]
