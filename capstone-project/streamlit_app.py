@@ -61,7 +61,7 @@ st.set_page_config(page_title="Statistics Assistant", page_icon="📊")
 st.title("📊 Engineering Statistics Assistant")
 st.caption("Ask questions about process characterization, process modeling, and process monitoring. ")
 st.caption("All answers are grounded in the [NIST/SEMATECH e-Handbook](https://www.itl.nist.gov/div898/handbook/toolaids/pff/index.htm).")
-st.caption("Check out my [GitHub Repository](https://github.com/kang-mx/llm-zoomcamp/capstone-project) for more!")
+st.caption("Check out my [GitHub Repository](https://github.com/kang-mx/llm-zoomcamp/tree/main/capstone-project) for more!")
 
 if "current_qa" not in st.session_state:
     st.session_state.current_qa = None
