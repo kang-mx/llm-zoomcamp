@@ -2,6 +2,7 @@ faiss-cpu
 openai
 duckdb
 numpy
+pandas
 python-dotenv
 sentence-transformers
 rank-bm25
