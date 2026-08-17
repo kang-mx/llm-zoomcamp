@@ -5,9 +5,9 @@ semiconductor manufacturing statistics: process monitoring and control, process 
 process modeling. The data is based on the NIST/SEMATECH e-Handbook of Statistical
 Methods. Built as the capstone project for [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp).
 
-🔗 **Live demo:** _[add Streamlit Community Cloud link here]_
-📦 **Repo:** _[add GitHub repo link here]_
-
+📊 **Live app demo:** [Demo Link](https://llm-capstone-project-app-kangmx.streamlit.app/)
+📈 **Dashboard demo:** [Demo Link](https://llm-capstone-project-dashboard-kangmx.streamlit.app/)
+📦 **Repo:** [Repo Link](https://github.com/kang-mx/llm-zoomcamp/tree/main/capstone-project)
 ---
 
 ## Problem Description
@@ -158,18 +158,19 @@ _[screenshot: monitoring dashboard]_
 **Requirements:** Docker and Docker Compose.
 
 1. Clone the repo:
-   ```bash
-   git clone <repo-url>
-   cd <repo-folder>
-   ```
+    ```bash
+   git clone https://github.com/kang-mx/llm-zoomcamp.git 
+   cd capstone-project
+   ```
+
 2. Create a `.env` file in the project root:
-   ```
-   GEMINI_API_KEY=your-key-here
-   ```
+    ```bash
+    GEMINI_API_KEY=your-key-here
+    ```
 3. Build and run both services:
-   ```bash
-   docker compose up --build
-   ```
+    ```bash 
+    docker compose up --build
+    ```
 4. Open the app: [http://localhost:8501](http://localhost:8501)
    Open the dashboard: [http://localhost:8502](http://localhost:8502)
 

@@ -17,6 +17,7 @@ DB_PATH = os.path.join(BASE_DIR, "feedback.db")
 
 st.set_page_config(page_title="Monitoring Dashboard", page_icon="📈", layout="wide")
 st.title("📈 RAG Assistant: Monitoring Dashboard")
+st.sidebar.markdown("[📊 Back to Engineering Statistics Assistant](https://llm-capstone-project-app-kangmx.streamlit.app/)")
 
 conn = sqlite3.connect(DB_PATH)
 df = pd.read_sql_query("SELECT * FROM feedback", conn)
