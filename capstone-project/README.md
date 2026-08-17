@@ -51,7 +51,9 @@ to this repo — no external download needed to reproduce this project.
 | Reproducibility | [Running the Project](#running-the-project) |
 | Best practices: hybrid search | [Retrieval Evaluation Results](#retrieval-evaluation-results) |
 | Best practices: query rewriting | [LLM Evaluation Results](#llm-evaluation-results) |
-| Bonus: cloud deployment | [Streamlit Community Cloud](#engineering-statistics-handbook-assistant) |
+| Bonus 1: cloud deployment | [Dual Deployment on Streamlit Community Cloud](#engineering-statistics-handbook-assistant) |
+| Bonus 2: multi-service containerization | [docker-compose.yml Orchestration](#bonus-points) |
+| Bonus 3: automated evaluation pipeline | [Ground Truth Generation and Evaluation](#bonus-points) |
 
 ## Architecture
 
@@ -152,6 +154,19 @@ Every question, answer, latency, and feedback vote is logged to `feedback.db`
 _[screenshot: monitoring dashboard]_
 ![Dashboard Page 1](assets/dashboard_pg1.png) 
 ![Dashboard Page 2](assets/dashboard_pg2.png)
+
+
+## Bonus Points
+
+This project implements the following optional features for bonus evaluation points:
+
+1. **Live Cloud Deployment:** Deployed both the main RAG user app ([App Link](https://llm-capstone-project-app-kangmx.streamlit.app/)) and the analytics dashboard ([Dashboard Link](https://llm-capstone-project-dashboard-kangmx.streamlit.app/)) on Streamlit Community Cloud.
+2. **Multi-Service Docker Setup:** Built a `docker-compose.yml` that runs both the main Streamlit app and the monitoring dashboard in separate containers while sharing the same SQLite database (`feedback.db`) for real-time tracking.
+3. **Automated Evaluation Pipeline:** 
+   - Used Gemini (`generate_ground_truth.py`) to automatically generate **304 test questions** directly from the PDF chunks.
+   - Used those questions (`eval_retrieval.py`) to test and compare Hit Rate and MRR across Vector, BM25, and Hybrid search.
+   - Used an LLM-as-a-judge script (`evaluate_llm_output.py`) to grade answer quality with and without query rewriting.
+
 
 ## Running the Project
 
