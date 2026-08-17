@@ -5,8 +5,8 @@ semiconductor manufacturing statistics: process monitoring and control, process 
 process modeling. The data is based on the NIST/SEMATECH e-Handbook of Statistical
 Methods. Built as the capstone project for [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp).
 
-📊 **Live app demo:** [Demo Link](https://llm-capstone-project-app-kangmx.streamlit.app/) \
-📈 **Dashboard demo:** [Demo Link](https://llm-capstone-project-dashboard-kangmx.streamlit.app/) \
+📊 **Streamlit App Live Demo:** [Demo Link](https://llm-capstone-project-app-kangmx.streamlit.app/) \
+📈 **Streamlit Dashboard demo:** [Demo Link](https://llm-capstone-project-dashboard-kangmx.streamlit.app/) \
 📦 **Repo:** [Repo Link](https://github.com/kang-mx/llm-zoomcamp/tree/main/capstone-project)
 ---
 
@@ -16,8 +16,8 @@ Engineers and students working with statistical process control, process
 characterization, and process modeling often need quick, grounded answers
 without manually searching a 2,600-page reference document. This project
 solves that by retrieving the most relevant passages from the NIST/SEMATECH
-Engineering Statistics Handbook and generating a grounded, cited answer via
-an LLM — with both retrieval quality and answer quality empirically evaluated
+Engineering Statistics Handbook and generating a grounded and cited answer via
+an LLM. Both retrieval quality and answer quality empirically evaluated
 rather than assumed.
 
 ## Dataset
@@ -51,7 +51,7 @@ to this repo — no external download needed to reproduce this project.
 | Reproducibility | [Running the Project](#running-the-project) |
 | Best practices: hybrid search | [Retrieval Evaluation Results](#retrieval-evaluation-results) |
 | Best practices: query rewriting | [LLM Evaluation Results](#llm-evaluation-results) |
-| Bonus: cloud deployment | [Live Demo](#-live-app-demo-demo-link--dashboard-demo-demo-link--repo-repo-link) |
+| Bonus: cloud deployment | [Streamlit Community Cloud](#engineering-statistics-handbook-assistant) |
 
 ## Architecture
 
