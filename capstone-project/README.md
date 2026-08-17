@@ -1,8 +1,8 @@
 # Engineering Statistics Handbook Assistant
 
 A RAG (Retrieval-Augmented Generation) application that answers questions about
-semiconductor manufacturing statistics — SPC, process characterization, and
-process modeling — grounded in the NIST/SEMATECH e-Handbook of Statistical
+semiconductor manufacturing statistics: process monitoring and control, process characterization, and
+process modeling. The data is based on the NIST/SEMATECH e-Handbook of Statistical
 Methods. Built as the capstone project for [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp).
 
 🔗 **Live demo:** _[add Streamlit Community Cloud link here]_
