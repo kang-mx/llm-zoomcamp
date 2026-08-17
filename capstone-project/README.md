@@ -5,8 +5,8 @@ semiconductor manufacturing statistics: process monitoring and control, process 
 process modeling. The data is based on the NIST/SEMATECH e-Handbook of Statistical
 Methods. Built as the capstone project for [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp).
 
-📊 **Live app demo:** [Demo Link](https://llm-capstone-project-app-kangmx.streamlit.app/)
-📈 **Dashboard demo:** [Demo Link](https://llm-capstone-project-dashboard-kangmx.streamlit.app/)
+📊 **Live app demo:** [Demo Link](https://llm-capstone-project-app-kangmx.streamlit.app/) \
+📈 **Dashboard demo:** [Demo Link](https://llm-capstone-project-dashboard-kangmx.streamlit.app/) \
 📦 **Repo:** [Repo Link](https://github.com/kang-mx/llm-zoomcamp/tree/main/capstone-project)
 ---
 
@@ -51,17 +51,17 @@ to this repo — no external download needed to reproduce this project.
 | Reproducibility | [Running the Project](#running-the-project) |
 | Best practices: hybrid search | [Retrieval Evaluation Results](#retrieval-evaluation-results) |
 | Best practices: query rewriting | [LLM Evaluation Results](#llm-evaluation-results) |
-| Bonus: cloud deployment | Live demo link above |
+| Bonus: cloud deployment | [Live Demo](#-live-app-demo-demo-link--dashboard-demo-demo-link--repo-repo-link) |
 
 ## Architecture
 
 ```
 PDFs (data/) 
-  → ingest.py            [dlt pipeline: parse + chunk → DuckDB]
+  → ingest.py             [dlt pipeline: parse + chunk → DuckDB]
   → embed_index.py        [sentence-transformers embeddings → FAISS index]
   → rag.py                [hybrid retrieval (FAISS + BM25 via RRF) → Gemini for generation]
-  → streamlit_app.py       [user-facing interface + feedback logging]
-  → dashboard.py           [monitoring dashboard, reads feedback.db]
+  → streamlit_app.py      [user-facing interface + feedback logging]
+  → dashboard.py          [monitoring dashboard, reads feedback.db]
 ```
 
 **Tech stack:**
