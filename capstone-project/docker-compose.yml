@@ -1,0 +1,27 @@
+services:
+  app:
+    build: .
+    command: streamlit run streamlit_app.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./handbook.index:/app/handbook.index
+      - ./handbook_metadata.pkl:/app/handbook_metadata.pkl
+      - ./feedback.db:/app/feedback.db
+    env_file:
+      - .env
+    environment:
+      - STREAMLIT_SERVER_FILE_WATCHER_TYPE=none
+ 
+  dashboard:
+    build: .
+    command: streamlit run dashboard.py --server.port=8502 --server.address=0.0.0.0
+    ports:
+      - "8502:8502"
+    volumes:
+      - ./feedback.db:/app/feedback.db  # same file as 'app' — this is what keeps them in sync
+    depends_on:
+      - app
+    environment:
+      - STREAMLIT_SERVER_FILE_WATCHER_TYPE=none
