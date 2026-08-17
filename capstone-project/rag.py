@@ -15,8 +15,9 @@ load_dotenv()
 os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 os.environ["HF_HUB_VERBOSITY"] = "error"
 
-INDEX_PATH = "handbook.index"
-METADATA_PATH = "handbook_metadata.pkl"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+INDEX_PATH = os.path.join(BASE_DIR, "handbook.index")
+METADATA_PATH = os.path.join(BASE_DIR, "handbook_metadata.pkl")
 CHAT_MODEL = "gemini-3.1-flash-lite"
 EMBED_MODEL_NAME = "all-MiniLM-L6-v2"
 TOP_K = 5

@@ -9,12 +9,12 @@ Usage:
 import sqlite3
 import time
 from datetime import datetime
-
+import os
 import streamlit as st
-
 from rag import answer_question
 
-DB_PATH = "feedback.db"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(BASE_DIR, "feedback.db")
 
 
 def init_db():

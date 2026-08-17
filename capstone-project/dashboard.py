@@ -8,11 +8,12 @@ Usage:
 """
 
 import sqlite3
-
 import pandas as pd
 import streamlit as st
+import os
 
-DB_PATH = "feedback.db"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(BASE_DIR, "feedback.db")
 
 st.set_page_config(page_title="Monitoring Dashboard", page_icon="📈", layout="wide")
 st.title("📈 RAG Assistant: Monitoring Dashboard")
